@@ -1,0 +1,496 @@
+[
+    {
+        "createdAt": "2021-07-06T16:31:55.000Z",
+        "id": "01aa850f-44d5-4525-b7c9-96845034577f",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Ses Salines Fornells",
+        "lat": "40.04025800",
+        "lon": "4.12299720",
+        "city": "Menorca",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:08:26.000Z",
+                "id": "c0d807cd-b318-4d1b-82fb-62463068c9bd",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar por Menorca",
+                "routeTimeHours": 3,
+                "city": "Menorca",
+                "harborId": "01aa850f-44d5-4525-b7c9-96845034577f"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:32:11.000Z",
+        "id": "1a65c02b-fb8f-4d19-b353-1241bea786ab",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Valencia Mar",
+        "lat": "39.42529470",
+        "lon": "-0.32565300",
+        "city": "Valencia",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:09:01.000Z",
+                "id": "1b6f3516-216d-4051-a9b7-5e5beb9219d2",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar por Costa de Valencia",
+                "routeTimeHours": 3,
+                "city": "Valencia",
+                "harborId": "1a65c02b-fb8f-4d19-b353-1241bea786ab"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:56.000Z",
+        "id": "4a25a203-977c-4b36-813e-e6d8fd0ad9ab",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "CN Ibiza",
+        "lat": "38.91355540",
+        "lon": "1.41811510",
+        "city": "Ibiza",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:08:09.000Z",
+                "id": "6ef43a5c-29f5-4d74-8a90-6057522505c8",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar Formentera",
+                "routeTimeHours": 3,
+                "city": "Ibiza",
+                "harborId": "4a25a203-977c-4b36-813e-e6d8fd0ad9ab"
+            }
+        ]
+    },
+    {
+        "createdAt": "2022-05-31T16:43:31.000Z",
+        "id": "50cbbca3-5d26-4453-8c84-69e1fb77f76d",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Marina Port Ibiza",
+        "lat": "38.91060740",
+        "lon": "1.43611510",
+        "city": "Ibiza",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:08:11.000Z",
+                "id": "00d30540-984a-44a7-8c31-f5301ceaa451",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar Formentera y Espalmador",
+                "routeTimeHours": 3,
+                "city": "Ibiza",
+                "harborId": "50cbbca3-5d26-4453-8c84-69e1fb77f76d"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:57.000Z",
+        "id": "56c1eaa3-3afe-49fd-aca5-2cc484fca2d2",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "CN Sant Antoni de Portmany",
+        "lat": "38.97848400",
+        "lon": "1.28435140",
+        "city": "Ibiza",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:08:06.000Z",
+                "id": "145057f6-e9de-4a78-ba27-ff713e1a874a",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar Ibiza",
+                "routeTimeHours": 3,
+                "city": "Ibiza",
+                "harborId": "56c1eaa3-3afe-49fd-aca5-2cc484fca2d2"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:57.000Z",
+        "id": "78b5bd83-38f2-4f38-95b8-21953cc722ca",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "PD Santa Eulalia",
+        "lat": "38.98257260",
+        "lon": "1.52094360",
+        "city": "Ibiza",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:08:10.000Z",
+                "id": "1cce84ee-c78f-45d0-8382-bd43d5027f62",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar Formentera",
+                "routeTimeHours": 3,
+                "city": "Ibiza",
+                "harborId": "78b5bd83-38f2-4f38-95b8-21953cc722ca"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:56.000Z",
+        "id": "944a2db2-2140-4faf-99df-e205d60a5f13",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Marina Ibiza",
+        "lat": "38.91356660",
+        "lon": "1.43752530",
+        "city": "Ibiza",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:08:06.000Z",
+                "id": "73ce641e-ca98-4ab8-8987-1c3c1e04a605",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar Ibiza",
+                "routeTimeHours": 3,
+                "city": "Ibiza",
+                "harborId": "944a2db2-2140-4faf-99df-e205d60a5f13"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:57.000Z",
+        "id": "9b894495-153f-41df-970f-66c0327c259f",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Port Antoni de Portmany",
+        "lat": "38.98146420",
+        "lon": "1.16194970",
+        "city": "Ibiza",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:08:12.000Z",
+                "id": "66cc15c9-b123-43d0-a4c6-a42a2cc46924",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar Formentera y Espalmador",
+                "routeTimeHours": 3,
+                "city": "Ibiza",
+                "harborId": "9b894495-153f-41df-970f-66c0327c259f"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:06.000Z",
+        "id": "c0db8bbe-c9a2-48dd-a4eb-bea8c7a77310",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "RCN Barcelona",
+        "lat": "41.37611530",
+        "lon": "2.18021710",
+        "city": "Barcelona",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:07:39.000Z",
+                "id": "9ba8fe66-1b2e-403e-89e3-c597822fad53",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar por la Costa del Maresme",
+                "routeTimeHours": 3,
+                "city": "Barcelona",
+                "harborId": "c0db8bbe-c9a2-48dd-a4eb-bea8c7a77310"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:52.000Z",
+        "id": "c9a91455-cfc7-41c1-85e9-a1acfe806373",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Port de Mao",
+        "lat": "39.89132420",
+        "lon": "4.22826240",
+        "city": "Menorca",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:08:28.000Z",
+                "id": "83a93b29-6a8a-4107-8df9-60635fbf7d15",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar por Menorca",
+                "routeTimeHours": 3,
+                "city": "Menorca",
+                "harborId": "c9a91455-cfc7-41c1-85e9-a1acfe806373"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:56.000Z",
+        "id": "d12701f1-08e3-49c1-ac51-f32d56d3589c",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Marina Botafoch",
+        "lat": "38.91382610",
+        "lon": "1.44574180",
+        "city": "Ibiza",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:08:13.000Z",
+                "id": "1b45fcfc-6c8c-46d0-a9e6-4db4d412a8d9",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar Formentera y Espalmador",
+                "routeTimeHours": 3,
+                "city": "Ibiza",
+                "harborId": "d12701f1-08e3-49c1-ac51-f32d56d3589c"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:58.000Z",
+        "id": "d358f9cf-1a6d-4bba-b129-b14fa3313fa3",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Formentera Mar",
+        "lat": "38.73326230",
+        "lon": "1.39885650",
+        "city": "Formentera",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:07:50.000Z",
+                "id": "34512436-7e0e-4673-b9a1-c63580eba3ea",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar Ibiza",
+                "routeTimeHours": 3,
+                "city": "Formentera",
+                "harborId": "d358f9cf-1a6d-4bba-b129-b14fa3313fa3"
+            }
+        ]
+    },
+    {
+        "createdAt": "2021-07-06T16:31:58.000Z",
+        "id": "db583dd0-d50d-4662-9b62-607fdf155f92",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Marina Formentera",
+        "lat": "38.73319800",
+        "lon": "1.39885650",
+        "city": "Formentera",
+        "country": {
+            "createdAt": "2020-05-29T13:53:45.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "España",
+                    "en": "Spain"
+                }
+            },
+            "entityName": "Country",
+            "id": "26a3b2ea-7b01-45f6-94a3-8f010faf5cce",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name_i18n": "7c397c36-68f8-4893-9bcc-3c344a2cfcf2",
+            "name": "Spain",
+            "iso2": "ES"
+        },
+        "routes": [
+            {
+                "createdAt": "2023-01-17T23:07:50.000Z",
+                "id": "a43b6e4a-5f3a-4486-9869-b43495546733",
+                "updatedAt": null,
+                "deletedAt": null,
+                "name": "Navegar Ibiza",
+                "routeTimeHours": 3,
+                "city": "Formentera",
+                "harborId": "db583dd0-d50d-4662-9b62-607fdf155f92"
+            }
+        ]
+    }
+]

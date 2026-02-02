@@ -1,17 +1,6 @@
-import type { CollectionConfig, TypedLocale } from 'payload'
+import { populatePublishedAt } from '@/hooks/populatePublishedAt'
 
-import { hero } from '@/heros/config'
-import { authenticated } from '../../access/authenticated'
-import { authenticatedOrPublished } from '../../access/authenticatedOrPublished'
-import { Archive } from '../../blocks/ArchiveBlock/config'
-import { CallToAction } from '../../blocks/CallToAction/config'
-import { Content } from '../../blocks/Content/config'
-import { FormBlock } from '../../blocks/Form/config'
-import { MediaBlock } from '../../blocks/MediaBlock/config'
-import { populatePublishedAt } from '../../hooks/populatePublishedAt'
-import { generatePreviewPath } from '../../utilities/generatePreviewPath'
-import { revalidateDelete, revalidatePage } from './hooks/revalidatePage'
-
+import { generatePreviewPath } from '@/utilities/generatePreviewPath'
 import {
   MetaDescriptionField,
   MetaImageField,
@@ -19,30 +8,19 @@ import {
   OverviewField,
   PreviewField,
 } from '@payloadcms/plugin-seo/fields'
+import type { CollectionConfig, TypedLocale } from 'payload'
+import { revalidateCategory, revalidateDelete } from './hooks/revalidateCategory'
 
-export const Pages: CollectionConfig<'pages'> = {
-  slug: 'pages',
-  access: {
-    create: authenticated,
-    delete: authenticated,
-    read: authenticatedOrPublished,
-    update: authenticated,
-  },
-  // This config controls what's populated by default when a page is referenced
-  // https://payloadcms.com/docs/queries/select#defaultpopulate-collection-config-property
-  // Type safe if the collection slug generic is passed to `CollectionConfig` - `CollectionConfig<'pages'>
-  defaultPopulate: {
-    title: true,
-    slug: true,
-  },
+export const Categories: CollectionConfig = {
+  slug: 'categories',
   admin: {
-    defaultColumns: ['title', 'slug', 'updatedAt'],
+    useAsTitle: 'title',
     livePreview: {
       url: ({ data, req }) =>
         generatePreviewPath({
           locale: req.locale as TypedLocale,
           slug: data?.slug as string,
-          collection: 'pages',
+          collection: 'categories',
           req,
         }),
     },
@@ -50,13 +28,23 @@ export const Pages: CollectionConfig<'pages'> = {
       generatePreviewPath({
         locale: req.locale as TypedLocale,
         slug: data?.slug as string,
-        collection: 'pages',
+        collection: 'categories',
         req,
       }),
-    useAsTitle: 'title',
+  },
+  defaultPopulate: {
+    title: true,
+    type: true,
+    meta: true,
+    // categories: true,
+    // meta: {
+    //   image: true,
+    //   description: true,
+    // },
   },
   fields: [
     {
+      label: 'Name',
       name: 'title',
       type: 'text',
       localized: true,
@@ -66,21 +54,7 @@ export const Pages: CollectionConfig<'pages'> = {
       type: 'tabs',
       tabs: [
         {
-          fields: [hero],
-          label: 'Hero',
-        },
-        {
-          fields: [
-            {
-              name: 'layout',
-              type: 'blocks',
-              blocks: [CallToAction, Content, MediaBlock, Archive, FormBlock],
-              required: true,
-              admin: {
-                initCollapsed: true,
-              },
-            },
-          ],
+          fields: [],
           label: 'Content',
         },
         {
@@ -113,6 +87,15 @@ export const Pages: CollectionConfig<'pages'> = {
       ],
     },
     {
+      label: 'VivaBoat ID',
+      name: 'vb_id',
+      type: 'text',
+      required: false,
+      admin: {
+        position: 'sidebar',
+      },
+    },
+    {
       name: 'slug',
       type: 'text',
       localized: true,
@@ -126,13 +109,25 @@ export const Pages: CollectionConfig<'pages'> = {
       name: 'publishedAt',
       type: 'date',
       admin: {
+        date: {
+          pickerAppearance: 'dayAndTime',
+        },
         position: 'sidebar',
       },
+      hooks: {
+        beforeChange: [
+          ({ siblingData, value }) => {
+            if (siblingData._status === 'published' && !value) {
+              return new Date()
+            }
+            return value
+          },
+        ],
+      },
     },
-    // slugField(),
   ],
   hooks: {
-    afterChange: [revalidatePage],
+    afterChange: [revalidateCategory],
     beforeChange: [populatePublishedAt],
     afterDelete: [revalidateDelete],
   },

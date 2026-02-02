@@ -30,6 +30,7 @@ export default async function Page() {
   return (
     <div className="pt-24 pb-24">
       <PageClient />
+
       <div className="container mb-16">
         <div className="prose dark:prose-invert max-w-none">
           <h1>Posts</h1>
@@ -45,7 +46,7 @@ export default async function Page() {
         />
       </div>
 
-      <CollectionArchive posts={posts.docs} />
+      <CollectionArchive posts={posts.docs} relationTo="posts" />
 
       <div className="container">
         {posts.totalPages > 1 && posts.page && (

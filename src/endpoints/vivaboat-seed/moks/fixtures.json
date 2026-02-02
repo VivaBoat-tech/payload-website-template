@@ -1,0 +1,3452 @@
+[
+    {
+        "createdAt": "2020-05-29T13:55:21.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Corriente 220V en puerto",
+                "en": "220V current in port"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "a4897d78-6b08-46d0-a7ee-f5f1515657e6",
+        "updatedAt": "2020-05-29T13:55:21.000Z",
+        "deletedAt": null,
+        "name": "220v current in port",
+        "name_i18n": "2eed88c2-6b93-4423-8d13-766cdf71529f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2022-05-12T15:27:26.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Bluetooth",
+                "en": "Bluetooth"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "3794fc8f-7005-4b3f-a75c-c92065c4a1da",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Bluetooth",
+        "name_i18n": "84bafb7b-dd8e-40b4-a629-3091c3fa595d",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2023-05-19T11:58:47.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Floating Mat",
+                "es": "Manta flotante"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "8c6b9389-a1bc-4d58-8669-830b6c82d63d",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Floating Mat",
+        "name_i18n": "621de228-8045-4b24-b463-8b6ffa6a2dc3",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:13.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Probe",
+                "es": "Sonda"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "337960e7-aa31-42bd-9841-68aad7d924be",
+        "updatedAt": "2020-05-29T13:55:14.000Z",
+        "deletedAt": null,
+        "name": "Pprobe",
+        "name_i18n": "89421dbd-a545-43fb-9b37-47e20c0bef4d",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2022-05-16T15:01:29.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Plataforma de popa sumergible.",
+                "en": "Submersible stern platform."
+            }
+        },
+        "entityName": "Equipment",
+        "id": "4b71c8be-d3a7-424a-a80d-131093ed7966",
+        "updatedAt": null,
+        "deletedAt": null,
+        "name": "Submersible stern platform.",
+        "name_i18n": "4c49783f-fa59-4577-98dd-6ce2727c07f9",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:02.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Aire acondicionado",
+                "en": "Air conditioning"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "e2d85910-70be-41a0-ae24-8bed48d1ee64",
+        "updatedAt": "2020-05-29T13:56:03.000Z",
+        "deletedAt": null,
+        "name": "air conditioning",
+        "name_i18n": "6572b86f-6f9d-41eb-a8f7-62433ea2f97c",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:30.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Air conditioning in each cabin",
+                "es": "Aire acondicionado en cada cabina"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "4c1a457f-863d-48ca-bfe8-73417650ae2b",
+        "updatedAt": "2020-05-29T13:56:31.000Z",
+        "deletedAt": null,
+        "name": "air conditioning in each cabin",
+        "name_i18n": "c15bb956-ce58-4825-b26f-1723b3e375ec",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:32.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Air conditioning in the living room",
+                "es": "Aire acondicionado en el salón"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "9f02d973-9cac-4e18-ac20-08b80ba61296",
+        "updatedAt": "2020-05-29T13:56:33.000Z",
+        "deletedAt": null,
+        "name": "air conditioning in the living room",
+        "name_i18n": "9df440fe-16de-46e4-8e84-55cd4a70c58f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:46.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Anchorage stabilizers",
+                "es": "Estabilizadores de fondeo"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "d5b3006d-8927-4898-98ff-2e30fb77cc4f",
+        "updatedAt": "2020-05-29T13:54:47.000Z",
+        "deletedAt": null,
+        "name": "anchorage stabilizers",
+        "name_i18n": "59132154-1b97-43d1-96f0-5a60a7fa90a1",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:15.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Anemometer",
+                "es": "Anemómetro"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "ca2ed3b2-cf6c-415d-9b08-6546994db450",
+        "updatedAt": "2020-05-29T13:55:16.000Z",
+        "deletedAt": null,
+        "name": "anemometer",
+        "name_i18n": "d3393286-1a0a-4f12-a801-0dcad52aecf2",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:14.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Anti-spray hood",
+                "es": "Capota antirociones"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "af4e0d96-200c-4a4e-8a8e-062dcb74670d",
+        "updatedAt": "2020-05-29T13:54:15.000Z",
+        "deletedAt": null,
+        "name": "anti-spray hood",
+        "name_i18n": "266b1b0c-9f7b-465b-b4c9-4b80ab872ef3",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:45.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Árabe",
+                "en": "Arabic"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "7d3d84fe-09bb-45c5-a67e-b97b16fb3cb0",
+        "updatedAt": "2020-05-29T13:57:46.000Z",
+        "deletedAt": null,
+        "name": "arabic",
+        "name_i18n": "7e5d43d3-8297-432b-867a-58d1bd1233d1",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:50.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Autopilot",
+                "es": "Piloto automático"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "d548203a-dda5-4942-80f5-071d543b5c53",
+        "updatedAt": "2020-05-29T13:54:51.000Z",
+        "deletedAt": null,
+        "name": "autopilot",
+        "name_i18n": "a2968f4b-990f-40ea-b9e6-a495b87e7264",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:17.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Auxiliary boat motor",
+                "es": "Motor embarcación auxiliar"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "7ab72725-ee7e-4eb7-9dbe-5fecd242c81a",
+        "updatedAt": "2020-05-29T13:56:18.000Z",
+        "deletedAt": null,
+        "name": "auxiliary boat motor",
+        "name_i18n": "ff2c49a1-0881-4f80-9076-7b40f0815f8f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:56.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Banana",
+                "es": "Banana"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "457aa414-4ab7-456b-8d78-f8c90560096b",
+        "updatedAt": "2020-05-29T13:56:57.000Z",
+        "deletedAt": null,
+        "name": "banana",
+        "name_i18n": "6d9392ec-d977-4455-b3cd-1df1850e7d53",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:20.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Barbecue",
+                "es": "Barbacoa"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "0dd2d2b3-e1df-46b3-bf6a-5114d76e3806",
+        "updatedAt": "2020-05-29T13:54:21.000Z",
+        "deletedAt": null,
+        "name": "barbecue",
+        "name_i18n": "e320cbe9-3971-4be1-8285-4825d070331e",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:22.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Plataforma de baño",
+                "en": "Bathing platform"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "4aee370a-7870-43a1-9307-85097cd6fd05",
+        "updatedAt": "2020-05-29T13:54:22.000Z",
+        "deletedAt": null,
+        "name": "bathing platform",
+        "name_i18n": "bc8cefc5-273a-461a-b318-476d68f7b9f7",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:01.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Bathtub speakers",
+                "es": "Altavoces en bañera"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "2aa90dd9-4f77-405f-bad4-1af0d777763d",
+        "updatedAt": "2020-05-29T13:55:02.000Z",
+        "deletedAt": null,
+        "name": "bathtub speakers",
+        "name_i18n": "45608af6-0b66-45ca-977c-70bc86b587e0",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:04.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Bike",
+                "es": "Bicicleta"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "31c9f776-71b0-41e5-93a4-2612ba9636fe",
+        "updatedAt": "2020-05-29T13:57:04.000Z",
+        "deletedAt": null,
+        "name": "bike",
+        "name_i18n": "d13e2eaf-9a35-46dd-8b57-053fcc664ed3",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:24.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Bimini",
+                "en": "Bimini"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "38264447-ce30-4bc5-9dfb-f103cb6f7a80",
+        "updatedAt": "2020-05-29T13:54:24.000Z",
+        "deletedAt": null,
+        "name": "bimini",
+        "name_i18n": "7e9b2fd8-5163-47bd-868e-e357ead301e0",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:16.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Hélice de proa",
+                "en": "Bow thruster"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "efe554fc-ca60-4991-b99c-34432cb41b12",
+        "updatedAt": "2020-05-29T13:54:16.000Z",
+        "deletedAt": null,
+        "name": "bow thruster",
+        "name_i18n": "0153424a-b995-4bbe-bee2-b4bb2fa04558",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:40.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Piragua",
+                "en": "Canoe"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "b2699c91-55ce-423d-af08-43ba8014c918",
+        "updatedAt": "2020-05-29T13:56:40.000Z",
+        "deletedAt": null,
+        "name": "canoe",
+        "name_i18n": "1b97d221-9595-4e67-a5ac-408d2f089eab",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:07.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Capitán",
+                "en": "Captain"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "acb8a0ba-ecd2-41b1-b058-61a7f68e3ba9",
+        "updatedAt": "2020-05-29T13:57:08.000Z",
+        "deletedAt": null,
+        "name": "captain",
+        "name_i18n": "cd8edd59-a893-475e-b5c4-6338661b0afc",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:13.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Chef",
+                "en": "Chef"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "20a17f4b-4a9c-4a76-b1ea-3d6d85567519",
+        "updatedAt": "2020-05-29T13:57:14.000Z",
+        "deletedAt": null,
+        "name": "chef",
+        "name_i18n": "f478c734-c457-4b40-b9a7-36db8432ee0c",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:15.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Jefa de azafatas",
+                "en": "Chief stewardess"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "1c3cca73-b2f3-4601-b4ed-5958076c023a",
+        "updatedAt": "2020-05-29T13:57:16.000Z",
+        "deletedAt": null,
+        "name": "chief stewardess",
+        "name_i18n": "c6f1e438-175a-41ce-9342-63a2b3aa11f6",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:44.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Chino",
+                "en": "Chinese"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "c0665d43-9e41-4bb5-a2d3-33c171c3c94e",
+        "updatedAt": "2020-05-29T13:57:44.000Z",
+        "deletedAt": null,
+        "name": "chinese",
+        "name_i18n": "90d0d036-bf4a-4102-bf98-d257e358505d",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:27.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Ordenador",
+                "en": "Computer"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "4097dff0-a93b-480d-a107-997614c6f29c",
+        "updatedAt": "2020-05-29T13:55:27.000Z",
+        "deletedAt": null,
+        "name": "computer",
+        "name_i18n": "cc852cb6-7f74-4b8d-84ce-f0b438a70333",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:39.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Croata",
+                "en": "Croatian"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "ef404ba1-a3ce-4be3-b0b7-dec8dcd4c73e",
+        "updatedAt": "2020-05-29T13:57:40.000Z",
+        "deletedAt": null,
+        "name": "croatian",
+        "name_i18n": "a5d746d3-cf63-4496-b516-d1abd0fb0b6b",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:00.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Vajilla",
+                "en": "Crockery"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "8e717b48-7a69-4cff-bd18-675e776b04d0",
+        "updatedAt": "2020-05-29T13:56:01.000Z",
+        "deletedAt": null,
+        "name": "crockery",
+        "name_i18n": "ab5017b3-dbc0-4b0f-b5c1-1fa9327598b6",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:50.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Equipo de buceo",
+                "en": "Diving equipment"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "ca53788e-2739-494d-b269-f2b0f41c4611",
+        "updatedAt": "2020-05-29T13:56:50.000Z",
+        "deletedAt": null,
+        "name": "diving equipment",
+        "name_i18n": "7f26004d-e9c6-4a7e-9d29-09538d99e87f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:46.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Donut",
+                "en": "Donut"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "05d5d32f-3bcd-4405-885e-e7e05f3ce65e",
+        "updatedAt": "2020-05-29T13:56:46.000Z",
+        "deletedAt": null,
+        "name": "donut",
+        "name_i18n": "50b71104-1e68-4fb3-adb9-14abb4328555",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:38.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Dutch",
+                "es": "Holandés"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "c3ff1a53-3d95-4389-aee1-7c680e17fefd",
+        "updatedAt": "2020-05-29T13:57:38.000Z",
+        "deletedAt": null,
+        "name": "dutch",
+        "name_i18n": "97bc6a48-58fc-4705-828c-c11e5c83b240",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:56.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "DVD player",
+                "es": "Reproductor DVD"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "69357fa6-5df5-4c33-b011-8209920dba33",
+        "updatedAt": "2020-05-29T13:54:56.000Z",
+        "deletedAt": null,
+        "name": "dvd player",
+        "name_i18n": "47230ea9-2414-439c-80ba-3837ee1b1098",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:27.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Molinete de ancla eléctrico",
+                "en": "Electric anchor windlass"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "435ab4f0-20f3-4608-9a04-a2d099fbb660",
+        "updatedAt": "2020-05-29T13:54:28.000Z",
+        "deletedAt": null,
+        "name": "electric anchor windlass",
+        "name_i18n": "495a7cac-33a7-4ab5-8c76-95815da8ee39",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:23.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Nevera eléctrica",
+                "en": "Electric fridge"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "18476238-df51-4ebb-94d0-6c0cd3b458f9",
+        "updatedAt": "2020-05-29T13:56:23.000Z",
+        "deletedAt": null,
+        "name": "electric fridge",
+        "name_i18n": "86c8efd8-9046-4eff-944c-5ada5e6770a5",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:18.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Winche eléctrico",
+                "en": "Electric winch"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "ba71a352-c498-4abf-b4a8-b3c9403992b1",
+        "updatedAt": "2020-05-29T13:54:19.000Z",
+        "deletedAt": null,
+        "name": "electric winch",
+        "name_i18n": "bbcb185a-03de-49f5-b549-442a2075735d",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:21.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Ingeniero",
+                "en": "Engineer"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "72ae327e-a322-466e-91d6-f18283897991",
+        "updatedAt": "2020-05-29T13:57:22.000Z",
+        "deletedAt": null,
+        "name": "engineer",
+        "name_i18n": "e8ccaf94-ecc9-4c39-b49f-1a39dd73fae1",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:27.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "English",
+                "es": "Inglés"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "3dbb3b57-57d2-4411-bc65-5c2ec4de88e6",
+        "updatedAt": "2020-05-29T13:57:27.000Z",
+        "deletedAt": null,
+        "name": "english",
+        "name_i18n": "0cb3e79e-ea0d-4ead-87bf-9b4a0ceaae4a",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:56.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "EPIRB (Radiobaliza de emergencia para localización)",
+                "en": "EPIRB (Emergency radio beacon for location)"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "08fcd12b-47f2-4996-992c-2257d52f7822",
+        "updatedAt": "2020-05-29T13:55:57.000Z",
+        "deletedAt": null,
+        "name": "epirb",
+        "name_i18n": "52395e35-a7b8-4533-b0e3-8eb03e9484f2",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:25.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Aletas",
+                "en": "Fins"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "d76a94a6-75b6-47e2-ad60-3cefc6e750ac",
+        "updatedAt": "2020-05-29T13:54:26.000Z",
+        "deletedAt": null,
+        "name": "fins",
+        "name_i18n": "de4df791-9c6f-4017-9885-ae579e69862f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:09.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "First officer",
+                "es": "Primer oficial"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "93f340fc-6652-487d-a9e7-7b1d565cf04c",
+        "updatedAt": "2020-05-29T13:57:10.000Z",
+        "deletedAt": null,
+        "name": "first officer",
+        "name_i18n": "ce85a1ce-a723-4bbc-aa23-1bda033248d8",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:42.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Equipos de pesca",
+                "en": "Fishing equipment"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "df91de58-58f2-4347-b4ee-d0f2bc3adbcd",
+        "updatedAt": "2020-05-29T13:56:43.000Z",
+        "deletedAt": null,
+        "name": "fishing equipment",
+        "name_i18n": "d7aeb900-c672-4182-8c88-c69aff13b79f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:04.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Congelador",
+                "en": "Freezer"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "e35ea2c2-b768-4f06-bfe4-df955058d345",
+        "updatedAt": "2020-05-29T13:56:04.000Z",
+        "deletedAt": null,
+        "name": "freezer",
+        "name_i18n": "8c136aed-9fd6-497b-8edc-3b46d75ec17f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:29.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "French",
+                "es": "Francés"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "f7e215ea-e96c-4b53-89ea-af3a36bf3dbe",
+        "updatedAt": "2020-05-29T13:57:29.000Z",
+        "deletedAt": null,
+        "name": "french",
+        "name_i18n": "93697ed8-697d-431d-a118-302ad5ccceab",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:21.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Cocina a gas",
+                "en": "Gas stove"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "51b5a9bc-3781-4cd9-9de0-8e30c7479117",
+        "updatedAt": "2020-05-29T13:56:21.000Z",
+        "deletedAt": null,
+        "name": "gas stove",
+        "name_i18n": "722dfd3b-fe2e-4878-a5b8-615bd7ed925e",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:31.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Maniobra de Genaker y Genaker",
+                "en": "Genaker and Genaker maneuver"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "da1648c0-cad6-455d-9a22-973ad781c673",
+        "updatedAt": "2020-05-29T13:54:32.000Z",
+        "deletedAt": null,
+        "name": "genaker and Genaker maneuver",
+        "name_i18n": "f91f1199-35f2-48a2-9e30-4e778a696689",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:52.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Generator",
+                "es": "Generador"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "c0a139ca-f08f-4670-b2e3-907c881df1e2",
+        "updatedAt": "2020-05-29T13:54:53.000Z",
+        "deletedAt": null,
+        "name": "generator",
+        "name_i18n": "261d8478-423e-4b06-8fdf-a61a5b731246",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:30.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Alemán",
+                "en": "German"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "2616dab1-17e9-45b6-8fb9-d26d97290549",
+        "updatedAt": "2020-05-29T13:57:31.000Z",
+        "deletedAt": null,
+        "name": "german",
+        "name_i18n": "76d5a624-55ee-4ec3-9b8b-cd495509e180",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:03.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "GPS Plotter",
+                "en": "GPS Plotter"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "679c614f-d2d2-42b5-b61c-dd7691a05e17",
+        "updatedAt": "2020-05-29T13:55:04.000Z",
+        "deletedAt": null,
+        "name": "gps plotter",
+        "name_i18n": "90ab268f-7426-4973-b7c7-d7ef7dbb111d",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:17.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "GPS Plotter in cockpit",
+                "es": "GPS Plotter en bañera"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "9320fef1-50d4-4ae7-996e-cb0bd95fde89",
+        "updatedAt": "2020-05-29T13:55:18.000Z",
+        "deletedAt": null,
+        "name": "gps plotter in cockpit",
+        "name_i18n": "1431915e-0b14-4dc7-969b-43f0b36ce38e",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:49.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Griego",
+                "en": "Greek"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "a80ede44-c193-4209-907b-5ad6e2da6835",
+        "updatedAt": "2020-05-29T13:57:50.000Z",
+        "deletedAt": null,
+        "name": "greek",
+        "name_i18n": "f375ef9d-5dc0-4d50-8427-63c080d1d989",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:26.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Gimnasio",
+                "en": "Gym"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "3a2f71f5-c181-45ff-aa4f-2f677feef6bd",
+        "updatedAt": "2020-05-29T13:56:27.000Z",
+        "deletedAt": null,
+        "name": "gym",
+        "name_i18n": "1bae02aa-dc2b-490d-8f8e-3e67477306b3",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:58.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Heating",
+                "es": "Calefacción"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "5e01358c-8f7a-471e-85fe-06248db66e08",
+        "updatedAt": "2020-05-29T13:55:59.000Z",
+        "deletedAt": null,
+        "name": "heating",
+        "name_i18n": "a7176945-5f02-4be7-a690-82c787429d5e",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:34.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Calefacción en cada cabina",
+                "en": "Heating in each cabin"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "221fe680-2463-4a82-a6d7-9a42b19f9c35",
+        "updatedAt": "2020-05-29T13:56:35.000Z",
+        "deletedAt": null,
+        "name": "heating in each cabin",
+        "name_i18n": "eb8c2708-9575-4829-9656-5926e631ba46",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:36.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Calefacción en el salón",
+                "en": "Heating in the living room"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "db7a6a08-5436-45a7-b1f6-0f85f5e0e846",
+        "updatedAt": "2020-05-29T13:56:37.000Z",
+        "deletedAt": null,
+        "name": "heating in the living room",
+        "name_i18n": "09eb816f-8aad-48c9-9d9a-cb3de5b2f1ad",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:40.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Agua caliente",
+                "en": "Hot water"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "748ddfe2-ce65-4bc4-bb72-409f58f1f352",
+        "updatedAt": "2020-05-29T13:55:40.000Z",
+        "deletedAt": null,
+        "name": "hot water",
+        "name_i18n": "f5bad4f1-81f5-4b7d-a778-d8c04bf04092",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:10.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Ice fridge",
+                "es": "Nevera de hielo"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "ba70dd17-c356-4c0d-b5f9-6028963548de",
+        "updatedAt": "2020-05-29T13:56:10.000Z",
+        "deletedAt": null,
+        "name": "ice fridge",
+        "name_i18n": "1f854a6f-f79d-4b71-9ed8-6ff92554beed",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:11.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Indoor home cinema",
+                "es": "Home cinema interior"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "88cbbab1-ed64-4fe5-a4fd-9bee7ede5a08",
+        "updatedAt": "2020-05-29T13:56:12.000Z",
+        "deletedAt": null,
+        "name": "indoor home cinema",
+        "name_i18n": "00b6cd5a-ba5d-4464-8785-94a59f7d4a5f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:44.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Embarcación auxiliar neumàtica",
+                "en": "Inflatable dinghy"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "72740276-2a1d-4d3d-b10e-594f34ba3339",
+        "updatedAt": "2020-05-29T13:55:44.000Z",
+        "deletedAt": null,
+        "name": "inflatable dinghy",
+        "name_i18n": "ce08b2d0-dc65-4b57-a21e-3309f2185b61",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:05.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Inverter",
+                "en": "Inverter"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "062d8106-8093-4e45-8e9e-4a495fb11a86",
+        "updatedAt": "2020-05-29T13:55:06.000Z",
+        "deletedAt": null,
+        "name": "inverter",
+        "name_i18n": "6ab20b1a-5c6a-4efb-a789-110219c7af40",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:11.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Conexión iPod",
+                "en": "IPod connection"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "8add449f-e689-4f96-ba42-e07e135a2f40",
+        "updatedAt": "2020-05-29T13:55:12.000Z",
+        "deletedAt": null,
+        "name": "ipod connection",
+        "name_i18n": "bf96a28b-dfc1-4314-83eb-d8390226252a",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:32.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "IPS",
+                "en": "IPS"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "07e4b650-dfee-40c4-96b1-b97fb7ad41c9",
+        "updatedAt": "2020-05-29T13:55:33.000Z",
+        "deletedAt": null,
+        "name": "ips",
+        "name_i18n": "0e945f12-ea64-4822-8519-856ea0a5d83e",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:36.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Italiano",
+                "en": "Italian"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "f39301cc-87c1-40d5-94ab-4982aa81fbb6",
+        "updatedAt": "2020-05-29T13:57:36.000Z",
+        "deletedAt": null,
+        "name": "italian",
+        "name_i18n": "9b15553e-64a7-41da-846c-7125518e690f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:41.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Jacuzzi on deck",
+                "es": "Jacuzzi en cubierta"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "ab02aacf-af57-4efe-ad76-7a09496b70f4",
+        "updatedAt": "2020-05-29T13:54:41.000Z",
+        "deletedAt": null,
+        "name": "jacuzzi on deck",
+        "name_i18n": "a817fadb-4eb2-4ba4-8166-3af690d7d52b",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:38.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Jet Ski",
+                "es": "Jet Ski"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "2fe78605-7077-40f0-8de0-8f501be65f04",
+        "updatedAt": "2020-05-29T13:56:39.000Z",
+        "deletedAt": null,
+        "name": "jet Ski",
+        "name_i18n": "d83af440-fd9a-482b-aa79-0a4f6717ee1c",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:19.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Menaje cocina",
+                "en": "Kitchenware"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "fe7ab860-42d5-49cf-8639-8e1746ef571b",
+        "updatedAt": "2020-05-29T13:56:20.000Z",
+        "deletedAt": null,
+        "name": "kitchenware",
+        "name_i18n": "faf5ceee-0e88-41d1-96db-6f0463ff4886",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:46.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Balsa salvavidas",
+                "en": "Life raft"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "d50e33c4-c9b0-4d3f-87fd-825be9c43013",
+        "updatedAt": "2020-05-29T13:55:46.000Z",
+        "deletedAt": null,
+        "name": "life raft",
+        "name_i18n": "e067ca06-23ef-48f4-a0b9-a7762d878874",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:37.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Lifeline and safety harness",
+                "es": "Línea de vida y arnés de seguridad"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "7c098baf-4f9c-4241-aa5e-8248037838a8",
+        "updatedAt": "2020-05-29T13:54:37.000Z",
+        "deletedAt": null,
+        "name": "lifeline and safety harness",
+        "name_i18n": "100babab-22dd-4b35-9344-c44fd7480835",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:25.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Lift",
+                "es": "Ascensor"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "24f532c9-fa6a-4563-b887-1ca1f1d6dd68",
+        "updatedAt": "2020-05-29T13:56:25.000Z",
+        "deletedAt": null,
+        "name": "lift",
+        "name_i18n": "c9d47a5f-cf4d-4fc0-9041-bd8c27b98842",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:42.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Microwave oven",
+                "es": "Horno microondas"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "22c6926c-fe92-4208-9c3a-512467ee6f12",
+        "updatedAt": "2020-05-29T13:55:42.000Z",
+        "deletedAt": null,
+        "name": "microwave oven",
+        "name_i18n": "a4596a8f-5d15-47ca-a26f-3854fe9f69ad",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:54.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "MP3 Radio",
+                "es": "Radio MP3"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "6531182f-4f96-482b-a3b2-a6f257868dc3",
+        "updatedAt": "2020-05-29T13:54:54.000Z",
+        "deletedAt": null,
+        "name": "mp3 radio",
+        "name_i18n": "024c7ea1-5b50-4da5-af89-9a6a6bf5cfd7",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:13.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Nautical charts",
+                "es": "Cartas Náuticas"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "318eb2db-62c3-4e54-997d-af24d8d85a31",
+        "updatedAt": "2020-05-29T13:56:14.000Z",
+        "deletedAt": null,
+        "name": "nautical charts",
+        "name_i18n": "16d27108-2ee3-470d-b3ea-8edd4cdde851",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:48.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Estabilizadores de navegación",
+                "en": "Navigation stabilizers"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "827eb550-24d1-4e07-a7a2-6ecd508247b0",
+        "updatedAt": "2020-05-29T13:54:49.000Z",
+        "deletedAt": null,
+        "name": "navigation stabilizers",
+        "name_i18n": "b84f96a1-b3ca-466b-92fd-b74ae2d76276",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:45.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Bar exterior",
+                "en": "Outdoor bar"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "57ed3182-1651-4215-b1ff-f23ad4cc0617",
+        "updatedAt": "2020-05-29T13:54:45.000Z",
+        "deletedAt": null,
+        "name": "outdoor bar",
+        "name_i18n": "e193ef0b-bb01-4d98-8450-7ab556e8f55a",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:43.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Outdoor home theater",
+                "es": "Home theater exterior"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "23ae6a13-437f-4e48-b420-3523a249d5d6",
+        "updatedAt": "2020-05-29T13:54:43.000Z",
+        "deletedAt": null,
+        "name": "outdoor home theater",
+        "name_i18n": "57f171fe-bc8e-40d6-9ab8-316ffdc61ef7",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:48.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Horno",
+                "en": "Oven"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "6f6163aa-d17b-48d0-aa00-635497c472a2",
+        "updatedAt": "2020-05-29T13:55:48.000Z",
+        "deletedAt": null,
+        "name": "oven",
+        "name_i18n": "35be66c9-9fc1-4973-8961-8bbf66b54996",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:44.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Paddle Surf",
+                "en": "Paddle Surf"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "f71cf56c-9da4-452c-9082-d2d57b60631f",
+        "updatedAt": "2020-05-29T13:56:44.000Z",
+        "deletedAt": null,
+        "name": "paddle Surf",
+        "name_i18n": "8f7e582f-dad7-4f56-9bad-3bd101566678",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:42.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Portugués",
+                "en": "Portuguese"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "7117acc6-745c-44dc-93e9-1e8b349fb1b2",
+        "updatedAt": "2020-05-29T13:57:42.000Z",
+        "deletedAt": null,
+        "name": "portuguese",
+        "name_i18n": "f27417ba-e878-484b-a52e-c49c3d49e92d",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:57.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Radar",
+                "en": "Radar"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "f06d2458-dc8c-4687-a60b-d0d6089c9eb1",
+        "updatedAt": "2020-05-29T13:54:58.000Z",
+        "deletedAt": null,
+        "name": "radar",
+        "name_i18n": "c13f0938-9ff3-4f00-90ed-222c2e1e6ca8",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:25.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Radio CD",
+                "en": "Radio CD"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "bc7122f1-e9d6-45ed-8539-4aa1e1e4a10e",
+        "updatedAt": "2020-05-29T13:55:25.000Z",
+        "deletedAt": null,
+        "name": "radio cd",
+        "name_i18n": "69b2436a-ef13-4551-ae21-e31862c140d9",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:35.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Recordable mainsail",
+                "es": "Vela mayor inscribible"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "4e0ceaa3-77fc-4182-a9e4-dbbc778e493d",
+        "updatedAt": "2020-05-29T13:54:36.000Z",
+        "deletedAt": null,
+        "name": "recordable mainsail",
+        "name_i18n": "63f86b63-626f-47e8-b981-b963d1bc83eb",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:33.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Regatta sails",
+                "es": "Velas de regata"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "6b1d0b0b-0b99-4d1a-9720-008e6f3ae061",
+        "updatedAt": "2020-05-29T13:54:34.000Z",
+        "deletedAt": null,
+        "name": "regatta sails",
+        "name_i18n": "c206e84e-6a12-4ed4-808e-eb7deb2d90bb",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:34.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Ruso",
+                "en": "Russian"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "3c62ee6f-7015-4def-bb80-833ed07f15a5",
+        "updatedAt": "2020-05-29T13:57:34.000Z",
+        "deletedAt": null,
+        "name": "russian",
+        "name_i18n": "22e5ab3d-7cff-40f0-bfb3-6d70fae8dd09",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:08.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Caja fuerte",
+                "en": "Safe"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "7b42f090-e0c2-4220-8e20-91a67d75c17b",
+        "updatedAt": "2020-05-29T13:56:08.000Z",
+        "deletedAt": null,
+        "name": "safe",
+        "name_i18n": "46760860-43e5-4b8a-9f7e-48badb0a54d0",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:06.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Equipo de seguridad",
+                "en": "Safety equipment"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "48d18bb0-72fd-414c-8c21-8814f68ecab3",
+        "updatedAt": "2020-05-29T13:56:06.000Z",
+        "deletedAt": null,
+        "name": "safety equipment",
+        "name_i18n": "68e5f86d-2987-4b8f-9321-a7d96d7dac53",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:23.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Sailor",
+                "es": "Marinero"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "ca751ac6-e914-4cfb-84d2-fb15385a85cf",
+        "updatedAt": "2020-05-29T13:57:24.000Z",
+        "deletedAt": null,
+        "name": "sailor",
+        "name_i18n": "f6eed652-7a25-4db7-8f72-a86c530e40de",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:29.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Teléfono satélite",
+                "en": "Satellite phone"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "3f2386dc-9a6c-439c-9c8e-a417ceeeb6e6",
+        "updatedAt": "2020-05-29T13:55:29.000Z",
+        "deletedAt": null,
+        "name": "satellite phone",
+        "name_i18n": "3f40d3e2-acf2-4761-927a-4cc2f948e0be",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:06.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Scurfer",
+                "en": "Scurfer"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "b6c1b055-be5c-43b8-89b3-41f85d2f8fc1",
+        "updatedAt": "2020-05-29T13:57:06.000Z",
+        "deletedAt": null,
+        "name": "scurfer",
+        "name_i18n": "cbd363ab-81c7-4614-b541-4bb3851e7b2d",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:52.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Seabob",
+                "es": "Seabob"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "5eeb5a91-14c7-4d50-8a3b-00deb21d0839",
+        "updatedAt": "2020-05-29T13:56:52.000Z",
+        "deletedAt": null,
+        "name": "seabob",
+        "name_i18n": "e0092954-ad3e-40b2-b4e2-86cb1df38d7f",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:11.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Segundo oficial",
+                "en": "Second officer"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "490ec3f2-14df-450b-bded-591c17e92c50",
+        "updatedAt": "2020-05-29T13:57:12.000Z",
+        "deletedAt": null,
+        "name": "second officer",
+        "name_i18n": "1b970584-7ae5-4fc3-b8fb-97d68b9ea3e1",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:25.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Second sailor",
+                "es": "Segundo Marinero"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "9f950d67-4117-4fbc-9bdf-533c4a32bf99",
+        "updatedAt": "2020-05-29T13:57:25.000Z",
+        "deletedAt": null,
+        "name": "second sailor",
+        "name_i18n": "f63ff933-5ba7-456e-a67e-34778e6a9160",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:17.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Second stewardess",
+                "es": "Segunda azafata"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "203c1d07-41a4-4705-a9e1-ba866090f885",
+        "updatedAt": "2020-05-29T13:57:18.000Z",
+        "deletedAt": null,
+        "name": "second stewardess",
+        "name_i18n": "fbbcfbb2-c094-4fa6-a523-26e1810bb5fc",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:50.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Ducha en bañera",
+                "en": "Shower in bathtub"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "d0cc9b75-560e-4d72-b230-b4dab3b21866",
+        "updatedAt": "2020-05-29T13:55:51.000Z",
+        "deletedAt": null,
+        "name": "shower in bathtub",
+        "name_i18n": "cd9ad4cc-4325-4089-8a59-b2bae7f3eb68",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:07.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Corredera",
+                "en": "Slide"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "66077df7-cebd-4c0f-a9b2-ef74904f6f26",
+        "updatedAt": "2020-05-29T13:55:08.000Z",
+        "deletedAt": null,
+        "name": "slide",
+        "name_i18n": "ad7fc452-0b0a-4b94-a1b3-cc395062a19d",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:58.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Equipo snorkel",
+                "en": "Snorkeling equipment"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "7726b724-9086-4acf-8cc1-c0118282595d",
+        "updatedAt": "2020-05-29T13:56:59.000Z",
+        "deletedAt": null,
+        "name": "snorkeling equipment",
+        "name_i18n": "4b36fe94-92ec-4598-9193-8ac77f10a706",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:34.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Solar panels",
+                "es": "Paneles solares"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "205e1c2a-ce0a-4965-b082-e5335362a797",
+        "updatedAt": "2020-05-29T13:55:35.000Z",
+        "deletedAt": null,
+        "name": "solar panels",
+        "name_i18n": "130b1d65-0b24-49f0-9bf9-fec5ec4401ed",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:32.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Español",
+                "en": "Spanish"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "07c289dd-70cf-4124-9c78-4079383b54c8",
+        "updatedAt": "2020-05-29T13:57:33.000Z",
+        "deletedAt": null,
+        "name": "spanish",
+        "name_i18n": "a2b9b802-f8d4-4c99-b6b3-986d8acc95bd",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:29.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Maniobra de Spi y Spinnaker",
+                "en": "Spi and Spinnaker maneuver"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "c72d56d9-f9f8-433b-91cf-455aad2977df",
+        "updatedAt": "2020-05-29T13:54:30.000Z",
+        "deletedAt": null,
+        "name": "spi and Spinnaker maneuver",
+        "name_i18n": "7d9a7040-0991-45d0-9fa4-1605df7d6fd2",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:52.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Table in bathtub",
+                "es": "Mesa en bañera"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "daaf079f-4c6d-421d-8636-6796c8fe0664",
+        "updatedAt": "2020-05-29T13:55:52.000Z",
+        "deletedAt": null,
+        "name": "table in bathtub",
+        "name_i18n": "c07fe973-aa7c-497c-8867-279ae8f66919",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:54.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Suelo de teca",
+                "en": "Teak flooring"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "5418329b-f64b-471e-91ea-aeca0fa84787",
+        "updatedAt": "2020-05-29T13:55:55.000Z",
+        "deletedAt": null,
+        "name": "teak flooring",
+        "name_i18n": "460e53ca-f2dd-4785-a5ab-a12effa05c3b",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:30.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Televisión en el salón",
+                "en": "Television in the living room"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "8183a506-ca7f-49c0-818a-ac9617522de4",
+        "updatedAt": "2020-05-29T13:55:31.000Z",
+        "deletedAt": null,
+        "name": "television in the living room",
+        "name_i18n": "06894fa5-b8f6-4510-9f6a-eb47613be1ee",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:19.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Tercera azafata",
+                "en": "Third stewardess"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "2e17c2f7-b71e-47cd-880c-f325a0b404ab",
+        "updatedAt": "2020-05-29T13:57:20.000Z",
+        "deletedAt": null,
+        "name": "third stewardess",
+        "name_i18n": "f15fa4f8-bb12-47f4-923f-79edb59284d2",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:11.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Crew",
+                    "es": "Tripulación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "2c8e5b88-5f28-4eab-8646-be0c0732cddf",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew",
+            "name_i18n": "558fea0d-772d-4eb3-b00b-bb7a0fa26daa"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:28.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Transfer service",
+                "es": "Servicio de transfers"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "699f46cc-4121-420f-ad20-6a23562adefb",
+        "updatedAt": "2020-05-29T13:56:29.000Z",
+        "deletedAt": null,
+        "name": "transfer service",
+        "name_i18n": "8d6c3ac2-704d-4b70-9cb5-87ec504862d9",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:47.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Turco",
+                "en": "Turkish"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "dcd4fa92-0f25-4ff5-81ff-a4ec9ea26039",
+        "updatedAt": "2020-05-29T13:57:48.000Z",
+        "deletedAt": null,
+        "name": "turkish",
+        "name_i18n": "1874abf1-4e3f-496d-8fea-7d56e3da1973",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:12.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Idiomas hablados",
+                    "en": "Languages spoken"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "c976d677-c289-4176-ac03-9317e409081d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "crew-language",
+            "name_i18n": "7ddadfef-2a66-4d24-8b98-924e022821e1"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:59.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "TV",
+                "es": "Televisión"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "870628c1-c5b7-4a12-9d11-343506bb2c3e",
+        "updatedAt": "2020-05-29T13:55:00.000Z",
+        "deletedAt": null,
+        "name": "tv",
+        "name_i18n": "7d6d2da7-fe86-486a-b018-13eccd48d825",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:19.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "TV in each cabin",
+                "es": "Televisión en cada camarote"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "4dbf396f-5361-4cee-aa5f-6c33223435f4",
+        "updatedAt": "2020-05-29T13:55:20.000Z",
+        "deletedAt": null,
+        "name": "tv in each cabin",
+        "name_i18n": "523e2ccb-53ea-42ac-b2e3-f9a9bb3721cc",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:15.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "USB / AUX connection",
+                "es": "Conexión USB/AUX"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "27900085-3114-4dc3-a9d4-b5e2aecc5490",
+        "updatedAt": "2020-05-29T13:56:16.000Z",
+        "deletedAt": null,
+        "name": "usb/aux connection",
+        "name_i18n": "b551247b-6618-41ac-a401-b0a6aab672db",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:09.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Other equipment",
+                    "es": "Otra equipación"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "09c8854a-ca13-444a-9507-c1592a04e57d",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "other",
+            "name_i18n": "dbfd4550-2c66-4c59-b6ed-e9c29ec9039e"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:09.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "VHF",
+                "es": "VHF"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "f27f507c-bb8f-404d-b2fa-0f04a1f3b98d",
+        "updatedAt": "2020-05-29T13:55:10.000Z",
+        "deletedAt": null,
+        "name": "vhf",
+        "name_i18n": "e2416e6b-588d-4c68-a740-bde9a92ceb1d",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:38.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Consola de videojuegos",
+                "en": "Video game console"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "900e3f53-4a3b-4fea-b152-bc86fc75c559",
+        "updatedAt": "2020-05-29T13:55:38.000Z",
+        "deletedAt": null,
+        "name": "video game console",
+        "name_i18n": "b130d3d0-8675-4afc-aa91-9ad71450f7c5",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:56:48.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Wakeboard",
+                "es": "Wakeboard"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "fbef9a94-492f-4ade-a681-e4dc542256c8",
+        "updatedAt": "2020-05-29T13:56:48.000Z",
+        "deletedAt": null,
+        "name": "wakeboard",
+        "name_i18n": "1847b15b-22bc-44c3-8be9-71d307d08100",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:00.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Skis acuáticos",
+                "en": "Water skis"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "f738a726-8679-4d6d-8ff7-7a856efb5a68",
+        "updatedAt": "2020-05-29T13:57:01.000Z",
+        "deletedAt": null,
+        "name": "water skis",
+        "name_i18n": "24750b5d-6c21-4bfe-b97a-53a8f6e46d13",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:36.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Water treatment plant",
+                "es": "Potabilizadora"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "ff266a72-ef1c-4439-99c1-3f73789caf07",
+        "updatedAt": "2020-05-29T13:55:37.000Z",
+        "deletedAt": null,
+        "name": "water treatment plant",
+        "name_i18n": "a03a8c7b-215f-47ee-9727-60a0a6d75fcc",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:54:39.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Accesibilidad para sillas de ruedas",
+                "en": "Wheelchair accessibility"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "65408b4f-7569-414e-ac1e-79c93142ee66",
+        "updatedAt": "2020-05-29T13:54:39.000Z",
+        "deletedAt": null,
+        "name": "wheelchair accessibility",
+        "name_i18n": "43543d7b-2a34-47cf-9d0d-f8c0092a876e",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:06.000Z",
+            "translations": {
+                "name_i18n": {
+                    "en": "Cover equipment",
+                    "es": "Equipación de cubierta"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "7e202414-1758-4641-bf19-5fe174927b40",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "cover",
+            "name_i18n": "e1db160d-699c-4789-ae1e-16cda63e1a36"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:55:22.000Z",
+        "translations": {
+            "name_i18n": {
+                "en": "Wifi / Internet on board",
+                "es": "Wifi / Internet a bordo"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "f153c52c-07f7-473a-82bf-1f14a7bd3bb8",
+        "updatedAt": "2020-05-29T13:55:24.000Z",
+        "deletedAt": null,
+        "name": "wifi/internet on board",
+        "name_i18n": "710dcec8-ab62-4ad8-8a48-db9c0ffd8bd4",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:07.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Equipación electrónica",
+                    "en": "Electronic equipment"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "1bc1ce60-e29c-421d-b3ce-01b49f5ddcd6",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "electronic",
+            "name_i18n": "7edb5c84-a065-4f82-a9ca-50958083aa5b"
+        }
+    },
+    {
+        "createdAt": "2020-05-29T13:57:02.000Z",
+        "translations": {
+            "name_i18n": {
+                "es": "Windsurf",
+                "en": "Windsurf"
+            }
+        },
+        "entityName": "Equipment",
+        "id": "28410c0e-2eae-4e51-af53-4f6f27d33d1e",
+        "updatedAt": "2020-05-29T13:57:02.000Z",
+        "deletedAt": null,
+        "name": "windsurf",
+        "name_i18n": "90ef9e78-dd06-49b8-97ce-b082bf8cfc73",
+        "equipmentType": {
+            "createdAt": "2020-05-29T13:54:10.000Z",
+            "translations": {
+                "name_i18n": {
+                    "es": "Entrenamiento acuático",
+                    "en": "Acuatic training"
+                }
+            },
+            "entityName": "EquipmentType",
+            "id": "d8ccd4d5-fab6-4547-95cd-8f4f45164e79",
+            "updatedAt": null,
+            "deletedAt": null,
+            "name": "acuatic training",
+            "name_i18n": "0c83e538-9466-4edb-bf63-2ce197acf209"
+        }
+    }
+]

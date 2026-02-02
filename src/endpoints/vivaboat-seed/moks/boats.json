@@ -1,0 +1,2570 @@
+{
+    "took": 19,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 22,
+            "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "a0a2008e-cc0a-4ab3-b092-2452e1b0f617",
+                "_score": null,
+                "_source": {
+                    "id": "a0a2008e-cc0a-4ab3-b092-2452e1b0f617",
+                    "name": "Jugaroi",
+                    "length": 10,
+                    "seasons": [
+                        {
+                            "priceWeek": 525000,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 55000,
+                            "name": "Temporada baja",
+                            "priceWeekDay": 75000,
+                            "minDays": 0,
+                            "priceDay": 75000,
+                            "startDate": "2025-10-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 525,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 55000,
+                            "name": "Temporada baja",
+                            "priceWeekDay": 75,
+                            "minDays": 1,
+                            "priceDay": 75000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 626500,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 65000,
+                            "name": "Temporada Media",
+                            "priceWeekDay": 89500,
+                            "minDays": 1,
+                            "priceDay": 89500,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 745500,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 0,
+                            "name": "Temporada Alta",
+                            "priceWeekDay": 106500,
+                            "minDays": 1,
+                            "priceDay": 106500,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 626500,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 65000,
+                            "name": "Temporada Media",
+                            "priceWeekDay": 89500,
+                            "minDays": 0,
+                            "priceDay": 89500,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 525,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 55000,
+                            "combinedSeasonNames": [
+                                "Temporada baja"
+                            ],
+                            "name": "Temporada baja",
+                            "isCombined": true,
+                            "priceWeekDay": 75,
+                            "minDays": 0,
+                            "priceDay": 75000,
+                            "startDate": "2025-10-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 525,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 55000,
+                            "combinedSeasonNames": [
+                                "Temporada baja",
+                                "Temporada Media"
+                            ],
+                            "name": "Temporada baja + Temporada Media",
+                            "isCombined": true,
+                            "priceWeekDay": 75,
+                            "minDays": 1,
+                            "priceDay": 75000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 626500,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 0,
+                            "combinedSeasonNames": [
+                                "Temporada Media",
+                                "Temporada Alta"
+                            ],
+                            "name": "Temporada Media + Temporada Alta",
+                            "isCombined": true,
+                            "priceWeekDay": 89500,
+                            "minDays": 1,
+                            "priceDay": 89500,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 626500,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 0,
+                            "combinedSeasonNames": [
+                                "Temporada Alta",
+                                "Temporada Media"
+                            ],
+                            "name": "Temporada Alta + Temporada Media",
+                            "isCombined": true,
+                            "priceWeekDay": 89500,
+                            "minDays": 0,
+                            "priceDay": 89500,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2025-05-20T17:13:19.000Z",
+                    "updatedAt": "2025-05-20T19:32:59.000Z",
+                    "city": "Ibiza",
+                    "portName": "Marina Botafoch",
+                    "checkinWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "11",
+                    "checkoutWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "19",
+                    "portLocation": {
+                        "lat": "38.91382610",
+                        "lon": "1.44574180"
+                    },
+                    "boatType": "Rib",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 10,
+                    "numPeopleCapacitySleep": 0,
+                    "image": "/boat/a0a2008e-cc0a-4ab3-b092-2452e1b0f617/791-1747764087687",
+                    "busyDates": [],
+                    "reviewScore": 3,
+                    "isHighlighted": true,
+                    "extras": [
+                        {
+                            "createdAt": "2025-05-20T17:54:49.000Z",
+                            "deletedAt": null,
+                            "price": 10000,
+                            "customText": null,
+                            "id": "0f80031b-2996-4f1f-bf3c-16e35f0aa213",
+                            "boatExtraId": "e8e7fd3d-57d4-45b4-b3e2-1494f57eb4e5",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2025-05-20T17:59:17.000Z",
+                            "deletedAt": null,
+                            "price": 6000,
+                            "customText": null,
+                            "id": "360d2139-54bb-4554-88e5-d6dbf54f4fa4",
+                            "boatExtraId": "eea8b892-a5d2-497f-b5ad-98342aa906ad",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2025-05-20T17:13:20.000Z",
+                            "deletedAt": null,
+                            "price": 20000,
+                            "customText": null,
+                            "id": "988ac77d-75a3-467c-8c5a-1b80bb0c390d",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": true,
+                            "updatedAt": "2025-05-20T17:58:06.000Z",
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2025-05-20T17:55:49.000Z",
+                            "deletedAt": null,
+                            "price": 10000,
+                            "customText": null,
+                            "id": "9d162e39-58bf-4d26-9885-fba79f5e8af9",
+                            "boatExtraId": "d7aeb67e-40b9-48bd-896b-da5bf5a57e3d",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": true
+                },
+                "sort": [
+                    1,
+                    75000
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "b8041213-b718-4461-8140-1ff4db4be983",
+                "_score": null,
+                "_source": {
+                    "id": "b8041213-b718-4461-8140-1ff4db4be983",
+                    "name": "Be Happy",
+                    "length": 14,
+                    "seasons": [
+                        {
+                            "priceWeek": 617100,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 102850,
+                            "name": "Baja (Ene a May)",
+                            "priceWeekDay": 88158,
+                            "minDays": 1,
+                            "priceDay": 102850,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 762300,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 127050,
+                            "name": "Media (Junio)",
+                            "priceWeekDay": 108900,
+                            "minDays": 1,
+                            "priceDay": 127050,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 907500,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 151250,
+                            "name": "Alta (Julio y Agosto)",
+                            "priceWeekDay": 129643,
+                            "minDays": 1,
+                            "priceDay": 151250,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 762300,
+                            "endDate": "2026-10-31T23:59:59.000Z",
+                            "priceHalfDay": 127050,
+                            "name": "Media (Sep)",
+                            "priceWeekDay": 108900,
+                            "minDays": 1,
+                            "priceDay": 127050,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 617100,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 102850,
+                            "combinedSeasonNames": [
+                                "Baja (Ene a May)",
+                                "Media (Junio)"
+                            ],
+                            "name": "Baja (Ene a May) + Media (Junio)",
+                            "isCombined": true,
+                            "priceWeekDay": 88158,
+                            "minDays": 1,
+                            "priceDay": 102850,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 762300,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 127050,
+                            "combinedSeasonNames": [
+                                "Media (Junio)",
+                                "Alta (Julio y Agosto)"
+                            ],
+                            "name": "Media (Junio) + Alta (Julio y Agosto)",
+                            "isCombined": true,
+                            "priceWeekDay": 108900,
+                            "minDays": 1,
+                            "priceDay": 127050,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 762300,
+                            "endDate": "2026-10-31T23:59:59.000Z",
+                            "priceHalfDay": 127050,
+                            "combinedSeasonNames": [
+                                "Alta (Julio y Agosto)",
+                                "Media (Sep)"
+                            ],
+                            "name": "Alta (Julio y Agosto) + Media (Sep)",
+                            "isCombined": true,
+                            "priceWeekDay": 108900,
+                            "minDays": 1,
+                            "priceDay": 127050,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2022-06-09T15:54:38.000Z",
+                    "updatedAt": "2024-03-27T15:48:45.000Z",
+                    "city": "Ibiza",
+                    "portName": "Marina Ibiza",
+                    "checkinWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "flexible",
+                    "checkoutWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "flexible",
+                    "portLocation": {
+                        "lat": "38.91356660",
+                        "lon": "1.43752530"
+                    },
+                    "boatType": "Motorboat",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 12,
+                    "numPeopleCapacitySleep": 2,
+                    "image": "/boat/b8041213-b718-4461-8140-1ff4db4be983/65-1719945782085",
+                    "busyDates": [],
+                    "reviewScore": 3,
+                    "isHighlighted": true,
+                    "extras": [
+                        {
+                            "createdAt": "2022-06-09T16:10:00.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "0ae0472c-9b7b-4d75-8ea7-5922ac11c974",
+                            "boatExtraId": "72379673-023a-47a2-a248-276dfe08815c",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2022-06-09T16:09:38.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "3156beba-ab13-4824-b5eb-4ff46b3c54db",
+                            "boatExtraId": "5a18e606-6b64-4e5d-a71b-34256f9aad4a",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-19T14:41:40.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": "Crema solar",
+                            "id": "54d90344-d666-4e50-a45b-a70bd315346b",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-19T14:41:57.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "64c56cc4-7c72-4e6b-879f-685f1a7876f9",
+                            "boatExtraId": "eea8b892-a5d2-497f-b5ad-98342aa906ad",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2022-06-09T16:09:00.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "7142856f-afdc-4259-a483-c1329cde4b86",
+                            "boatExtraId": "2d299ad5-e0dc-4903-bda7-72b0bcc231fa",
+                            "isMandatory": true,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-out"
+                        },
+                        {
+                            "createdAt": "2022-06-09T15:54:38.000Z",
+                            "deletedAt": null,
+                            "price": 24200,
+                            "customText": null,
+                            "id": "c43c877d-e725-42a5-b2dc-b631d1c6b35d",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": true,
+                            "updatedAt": "2023-06-13T19:33:27.000Z",
+                            "isIncludedInPrice": false,
+                            "paymentType": "platform"
+                        },
+                        {
+                            "createdAt": "2022-06-09T16:08:36.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "db9ec0fd-2558-4977-a3d2-954117619b90",
+                            "boatExtraId": "46db42e4-58b5-42b1-8d9b-4f2058824623",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2022-06-09T16:09:28.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "ddffa331-8594-4fa1-ab0a-4a4e7b56428e",
+                            "boatExtraId": "8c99c2bd-d841-488d-9bb5-40dbc465a060",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": true
+                },
+                "sort": [
+                    1,
+                    102850
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "f1220d65-336f-4792-8633-2b6fbdd136d6",
+                "_score": null,
+                "_source": {
+                    "id": "f1220d65-336f-4792-8633-2b6fbdd136d6",
+                    "name": "Fjord 40 Incognito",
+                    "length": 12,
+                    "seasons": [
+                        {
+                            "priceWeek": 1006750,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 151250,
+                            "name": "T.B:OCTUBRE A MAYO",
+                            "priceWeekDay": 143822,
+                            "minDays": 1,
+                            "priceDay": 151250,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 1270500,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 181500,
+                            "name": "T.M:JUNIO",
+                            "priceWeekDay": 181500,
+                            "minDays": 1,
+                            "priceDay": 181500,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 1680000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 240000,
+                            "name": "T.A:JULIO Y AGOSTO",
+                            "priceWeekDay": 240000,
+                            "minDays": 1,
+                            "priceDay": 240000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 1270500,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 181500,
+                            "name": "T.M:SEPTIEMBRE",
+                            "priceWeekDay": 181500,
+                            "minDays": 1,
+                            "priceDay": 181500,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 1006750,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 151250,
+                            "combinedSeasonNames": [
+                                "T.B:OCTUBRE A MAYO",
+                                "T.M:JUNIO"
+                            ],
+                            "name": "T.B:OCTUBRE A MAYO + T.M:JUNIO",
+                            "isCombined": true,
+                            "priceWeekDay": 143822,
+                            "minDays": 1,
+                            "priceDay": 151250,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 1270500,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 181500,
+                            "combinedSeasonNames": [
+                                "T.M:JUNIO",
+                                "T.A:JULIO Y AGOSTO"
+                            ],
+                            "name": "T.M:JUNIO + T.A:JULIO Y AGOSTO",
+                            "isCombined": true,
+                            "priceWeekDay": 181500,
+                            "minDays": 1,
+                            "priceDay": 181500,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 1270500,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 181500,
+                            "combinedSeasonNames": [
+                                "T.A:JULIO Y AGOSTO",
+                                "T.M:SEPTIEMBRE"
+                            ],
+                            "name": "T.A:JULIO Y AGOSTO + T.M:SEPTIEMBRE",
+                            "isCombined": true,
+                            "priceWeekDay": 181500,
+                            "minDays": 1,
+                            "priceDay": 181500,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2023-07-25T16:49:05.000Z",
+                    "updatedAt": "2024-05-29T14:59:38.000Z",
+                    "city": "Ibiza",
+                    "portName": "Marina Ibiza",
+                    "checkinWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "flexible",
+                    "checkoutWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "flexible",
+                    "portLocation": {
+                        "lat": "38.91356660",
+                        "lon": "1.43752530"
+                    },
+                    "boatType": "Motorboat",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 11,
+                    "numPeopleCapacitySleep": 2,
+                    "image": "/boat/f1220d65-336f-4792-8633-2b6fbdd136d6/915-1721751096756",
+                    "busyDates": [
+                        "2026-06-12"
+                    ],
+                    "reviewScore": 2,
+                    "isHighlighted": true,
+                    "extras": [
+                        {
+                            "createdAt": "2023-07-25T17:12:15.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "03772dc5-8113-46bb-8757-1983fa7c759f",
+                            "boatExtraId": "5a18e606-6b64-4e5d-a71b-34256f9aad4a",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-07-25T16:49:05.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "092cfdb9-04ae-4b14-ad65-73f9ef178ed0",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": true,
+                            "updatedAt": "2024-04-24T14:39:01.000Z",
+                            "isIncludedInPrice": true,
+                            "paymentType": "platform"
+                        },
+                        {
+                            "createdAt": "2023-07-25T17:12:30.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "cb11fe18-4e0e-407d-ac48-9e2dace84377",
+                            "boatExtraId": "46db42e4-58b5-42b1-8d9b-4f2058824623",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": true
+                },
+                "sort": [
+                    1,
+                    151250
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "2f473033-17c5-4074-9bfb-3e7b2af2eaf0",
+                "_score": null,
+                "_source": {
+                    "id": "2f473033-17c5-4074-9bfb-3e7b2af2eaf0",
+                    "name": "TIA LOLA",
+                    "length": 7,
+                    "seasons": [
+                        {
+                            "priceWeek": 300000,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 45375,
+                            "name": "Temporada baja",
+                            "priceWeekDay": 42858,
+                            "minDays": 1,
+                            "priceDay": 45375,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 380000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 54450,
+                            "name": "Temporada media",
+                            "priceWeekDay": 54286,
+                            "minDays": 1,
+                            "priceDay": 54450,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 420000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 60500,
+                            "name": "Temporada alta",
+                            "priceWeekDay": 60000,
+                            "minDays": 1,
+                            "priceDay": 60500,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 380000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 48400,
+                            "name": "Temporada media 2",
+                            "priceWeekDay": 54286,
+                            "minDays": 1,
+                            "priceDay": 54450,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 300000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 45375,
+                            "combinedSeasonNames": [
+                                "Temporada baja",
+                                "Temporada media"
+                            ],
+                            "name": "Temporada baja + Temporada media",
+                            "isCombined": true,
+                            "priceWeekDay": 42858,
+                            "minDays": 1,
+                            "priceDay": 45375,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 380000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 54450,
+                            "combinedSeasonNames": [
+                                "Temporada media",
+                                "Temporada alta"
+                            ],
+                            "name": "Temporada media + Temporada alta",
+                            "isCombined": true,
+                            "priceWeekDay": 54286,
+                            "minDays": 1,
+                            "priceDay": 54450,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 380000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 48400,
+                            "combinedSeasonNames": [
+                                "Temporada alta",
+                                "Temporada media 2"
+                            ],
+                            "name": "Temporada alta + Temporada media 2",
+                            "isCombined": true,
+                            "priceWeekDay": 54286,
+                            "minDays": 1,
+                            "priceDay": 54450,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2023-05-07T17:22:55.000Z",
+                    "updatedAt": "2025-08-07T15:27:31.000Z",
+                    "city": "Ibiza",
+                    "portName": "Marina Botafoch",
+                    "checkinWeekDays": {
+                        "monday": true,
+                        "tuesday": true,
+                        "wednesday": true,
+                        "thursday": true,
+                        "friday": true,
+                        "saturday": true,
+                        "sunday": true
+                    },
+                    "checkinWeekHour": "11",
+                    "checkinDayHour": "11",
+                    "checkoutWeekDays": {
+                        "monday": true,
+                        "tuesday": true,
+                        "wednesday": true,
+                        "thursday": true,
+                        "friday": true,
+                        "saturday": true,
+                        "sunday": true
+                    },
+                    "checkoutWeekHour": "19",
+                    "checkoutDayHour": "19",
+                    "portLocation": {
+                        "lat": "38.91382610",
+                        "lon": "1.44574180"
+                    },
+                    "boatType": "Motorboat",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 8,
+                    "numPeopleCapacitySleep": 0,
+                    "image": "/boat/2f473033-17c5-4074-9bfb-3e7b2af2eaf0/717-1754580417440",
+                    "busyDates": [],
+                    "reviewScore": 0,
+                    "isHighlighted": false,
+                    "extras": [
+                        {
+                            "createdAt": "2023-05-07T17:22:55.000Z",
+                            "deletedAt": null,
+                            "price": 21780,
+                            "customText": null,
+                            "id": "4e3a695d-ad7c-49e4-b5ff-41db6a2bedef",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": false,
+                            "updatedAt": "2024-09-04T18:15:15.000Z",
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": false
+                },
+                "sort": [
+                    0,
+                    45375
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "efdc186d-dd7f-4c7c-b212-e2fe4c82cdeb",
+                "_score": null,
+                "_source": {
+                    "id": "efdc186d-dd7f-4c7c-b212-e2fe4c82cdeb",
+                    "name": "Peppa Pig",
+                    "length": 8,
+                    "seasons": [
+                        {
+                            "priceWeek": 0,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 0,
+                            "name": "Baja",
+                            "priceWeekDay": 65000,
+                            "minDays": 1,
+                            "priceDay": 65000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 0,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 0,
+                            "name": "Media",
+                            "priceWeekDay": 75000,
+                            "minDays": 1,
+                            "priceDay": 75000,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 0,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 0,
+                            "name": "Alta",
+                            "priceWeekDay": 85000,
+                            "minDays": 1,
+                            "priceDay": 85000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 0,
+                            "endDate": "2026-09-30T23:59:59.999Z",
+                            "priceHalfDay": 0,
+                            "name": "Media",
+                            "priceWeekDay": 75000,
+                            "minDays": 1,
+                            "priceDay": 75000,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 0,
+                            "endDate": "2026-12-31T23:59:59.000Z",
+                            "priceHalfDay": 0,
+                            "name": "Baja",
+                            "priceWeekDay": 65000,
+                            "minDays": 1,
+                            "priceDay": 65000,
+                            "startDate": "2026-10-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 0,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 0,
+                            "combinedSeasonNames": [
+                                "Baja",
+                                "Media"
+                            ],
+                            "name": "Baja + Media",
+                            "isCombined": true,
+                            "priceWeekDay": 65000,
+                            "minDays": 1,
+                            "priceDay": 65000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 0,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 0,
+                            "combinedSeasonNames": [
+                                "Media",
+                                "Alta"
+                            ],
+                            "name": "Media + Alta",
+                            "isCombined": true,
+                            "priceWeekDay": 75000,
+                            "minDays": 1,
+                            "priceDay": 75000,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 0,
+                            "endDate": "2026-09-30T23:59:59.999Z",
+                            "priceHalfDay": 0,
+                            "combinedSeasonNames": [
+                                "Alta",
+                                "Media"
+                            ],
+                            "name": "Alta + Media",
+                            "isCombined": true,
+                            "priceWeekDay": 75000,
+                            "minDays": 1,
+                            "priceDay": 75000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 0,
+                            "endDate": "2026-12-31T23:59:59.000Z",
+                            "priceHalfDay": 0,
+                            "combinedSeasonNames": [
+                                "Media",
+                                "Baja"
+                            ],
+                            "name": "Media + Baja",
+                            "isCombined": true,
+                            "priceWeekDay": 65000,
+                            "minDays": 1,
+                            "priceDay": 65000,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2026-01-28T14:00:58.000Z",
+                    "updatedAt": "2026-01-28T14:14:45.000Z",
+                    "city": "Ibiza",
+                    "portName": "Marina Botafoch",
+                    "checkinWeekDays": {
+                        "monday": true,
+                        "tuesday": true,
+                        "wednesday": true,
+                        "thursday": true,
+                        "friday": true,
+                        "saturday": true,
+                        "sunday": true
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "10",
+                    "checkoutWeekDays": {
+                        "monday": true,
+                        "tuesday": true,
+                        "wednesday": true,
+                        "thursday": true,
+                        "friday": true,
+                        "saturday": true,
+                        "sunday": true
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "20",
+                    "portLocation": {
+                        "lat": "38.91382610",
+                        "lon": "1.44574180"
+                    },
+                    "boatType": "Rib",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 12,
+                    "numPeopleCapacitySleep": 0,
+                    "image": "/boat/efdc186d-dd7f-4c7c-b212-e2fe4c82cdeb/118-1769609763920",
+                    "busyDates": [],
+                    "reviewScore": 3,
+                    "isHighlighted": false,
+                    "extras": [
+                        {
+                            "createdAt": "2026-01-28T14:12:34.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "6fd37785-20f2-4536-81de-64b06098bf22",
+                            "boatExtraId": "46db42e4-58b5-42b1-8d9b-4f2058824623",
+                            "isMandatory": true,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2026-01-28T14:12:15.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "7c3ff472-c5b7-4c8e-890e-cf65e9c21333",
+                            "boatExtraId": "5a18e606-6b64-4e5d-a71b-34256f9aad4a",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2026-01-28T14:11:57.000Z",
+                            "deletedAt": null,
+                            "price": 22000,
+                            "customText": null,
+                            "id": "849f0c02-ef50-40ac-b2f9-0c54c425d36b",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2026-01-28T14:11:26.000Z",
+                            "deletedAt": null,
+                            "price": 5000,
+                            "customText": null,
+                            "id": "b0e7c4af-2714-419f-b430-9683e6dc392f",
+                            "boatExtraId": "eea8b892-a5d2-497f-b5ad-98342aa906ad",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2026-01-28T14:12:46.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "db387355-f944-4dbc-bfaf-cb2ee058c0c7",
+                            "boatExtraId": "72379673-023a-47a2-a248-276dfe08815c",
+                            "isMandatory": true,
+                            "updatedAt": "2026-01-28T14:12:52.000Z",
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": false
+                },
+                "sort": [
+                    0,
+                    65000
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "3c9fb5ed-d3ca-4e3d-b8cf-ac471dfb1299",
+                "_score": null,
+                "_source": {
+                    "id": "3c9fb5ed-d3ca-4e3d-b8cf-ac471dfb1299",
+                    "name": "Beneteau  Flyer 7.7",
+                    "length": 8,
+                    "seasons": [
+                        {
+                            "priceWeek": 457380,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 65340,
+                            "name": "T.B:ENERO -MAYO",
+                            "priceWeekDay": 65340,
+                            "minDays": 1,
+                            "priceDay": 65340,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 503965,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 71995,
+                            "name": "T.M:JUNIO",
+                            "priceWeekDay": 71995,
+                            "minDays": 1,
+                            "priceDay": 71995,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 588665,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 84095,
+                            "name": "T.A:JULIO Y AGOSTO",
+                            "priceWeekDay": 84095,
+                            "minDays": 1,
+                            "priceDay": 84095,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 503965,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 71995,
+                            "name": "T.M:SEPTIEMBRE",
+                            "priceWeekDay": 71995,
+                            "minDays": 1,
+                            "priceDay": 71995,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 457380,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 65340,
+                            "combinedSeasonNames": [
+                                "T.B:ENERO -MAYO",
+                                "T.M:JUNIO"
+                            ],
+                            "name": "T.B:ENERO -MAYO + T.M:JUNIO",
+                            "isCombined": true,
+                            "priceWeekDay": 65340,
+                            "minDays": 1,
+                            "priceDay": 65340,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 503965,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 71995,
+                            "combinedSeasonNames": [
+                                "T.M:JUNIO",
+                                "T.A:JULIO Y AGOSTO"
+                            ],
+                            "name": "T.M:JUNIO + T.A:JULIO Y AGOSTO",
+                            "isCombined": true,
+                            "priceWeekDay": 71995,
+                            "minDays": 1,
+                            "priceDay": 71995,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 503965,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 71995,
+                            "combinedSeasonNames": [
+                                "T.A:JULIO Y AGOSTO",
+                                "T.M:SEPTIEMBRE"
+                            ],
+                            "name": "T.A:JULIO Y AGOSTO + T.M:SEPTIEMBRE",
+                            "isCombined": true,
+                            "priceWeekDay": 71995,
+                            "minDays": 1,
+                            "priceDay": 71995,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2023-07-04T17:31:01.000Z",
+                    "updatedAt": "2024-03-27T14:22:15.000Z",
+                    "city": "Ibiza",
+                    "portName": "Marina Botafoch",
+                    "checkinWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "flexible",
+                    "checkoutWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "flexible",
+                    "portLocation": {
+                        "lat": "38.91382610",
+                        "lon": "1.44574180"
+                    },
+                    "boatType": "Motorboat",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 10,
+                    "numPeopleCapacitySleep": 1,
+                    "image": "/boat/3c9fb5ed-d3ca-4e3d-b8cf-ac471dfb1299/844-1688494129246",
+                    "busyDates": [],
+                    "reviewScore": 0,
+                    "isHighlighted": false,
+                    "extras": [
+                        {
+                            "createdAt": "2023-07-04T18:06:11.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "1551565c-85e7-4aa6-b130-cc95023022c4",
+                            "boatExtraId": "46db42e4-58b5-42b1-8d9b-4f2058824623",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-07-04T18:06:37.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "18eb6bcf-c3c3-47fe-adee-f981c9be9046",
+                            "boatExtraId": "72379673-023a-47a2-a248-276dfe08815c",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-07-04T17:31:01.000Z",
+                            "deletedAt": null,
+                            "price": 18150,
+                            "customText": null,
+                            "id": "2911bbcf-eb6c-4cad-bb8d-dbeb0a8ffa66",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": false,
+                            "updatedAt": "2023-07-04T18:05:53.000Z",
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": false
+                },
+                "sort": [
+                    0,
+                    65340
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "faec4bd6-cd52-4eeb-bd26-3edcea81ecf7",
+                "_score": null,
+                "_source": {
+                    "id": "faec4bd6-cd52-4eeb-bd26-3edcea81ecf7",
+                    "name": "Ketos",
+                    "length": 12,
+                    "seasons": [
+                        {
+                            "priceWeek": 490000,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 53000,
+                            "name": "Temporada baja ",
+                            "priceWeekDay": 70000,
+                            "minDays": 1,
+                            "priceDay": 70000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 700000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 100000,
+                            "name": "Temporada Media",
+                            "priceWeekDay": 100000,
+                            "minDays": 1,
+                            "priceDay": 100000,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 840000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 120000,
+                            "name": "Temporada alta",
+                            "priceWeekDay": 120000,
+                            "minDays": 1,
+                            "priceDay": 120000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 700000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 100000,
+                            "name": "Temporada Media",
+                            "priceWeekDay": 100000,
+                            "minDays": 1,
+                            "priceDay": 100000,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 490000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 53000,
+                            "combinedSeasonNames": [
+                                "Temporada baja ",
+                                "Temporada Media"
+                            ],
+                            "name": "Temporada baja  + Temporada Media",
+                            "isCombined": true,
+                            "priceWeekDay": 70000,
+                            "minDays": 1,
+                            "priceDay": 70000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 700000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 100000,
+                            "combinedSeasonNames": [
+                                "Temporada Media",
+                                "Temporada alta"
+                            ],
+                            "name": "Temporada Media + Temporada alta",
+                            "isCombined": true,
+                            "priceWeekDay": 100000,
+                            "minDays": 1,
+                            "priceDay": 100000,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 700000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 100000,
+                            "combinedSeasonNames": [
+                                "Temporada alta",
+                                "Temporada Media"
+                            ],
+                            "name": "Temporada alta + Temporada Media",
+                            "isCombined": true,
+                            "priceWeekDay": 100000,
+                            "minDays": 1,
+                            "priceDay": 100000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2023-05-17T10:32:26.000Z",
+                    "updatedAt": "2026-01-28T11:58:50.000Z",
+                    "city": "Ibiza",
+                    "portName": "PD Santa Eulalia",
+                    "checkinWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "flexible",
+                    "checkoutWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "flexible",
+                    "portLocation": {
+                        "lat": "38.98257260",
+                        "lon": "1.52094360"
+                    },
+                    "boatType": "Rib",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 10,
+                    "numPeopleCapacitySleep": 0,
+                    "image": "/boat/faec4bd6-cd52-4eeb-bd26-3edcea81ecf7/856-1684321536750",
+                    "busyDates": [],
+                    "reviewScore": 2,
+                    "isHighlighted": false,
+                    "extras": [
+                        {
+                            "createdAt": "2023-05-17T10:57:53.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "31ae98c1-dd43-4ee8-bba1-819b3cc82579",
+                            "boatExtraId": "46db42e4-58b5-42b1-8d9b-4f2058824623",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T10:32:27.000Z",
+                            "deletedAt": null,
+                            "price": 24200,
+                            "customText": null,
+                            "id": "80bcab1a-f701-4d3a-9f85-0f43dff9324a",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": true,
+                            "updatedAt": "2023-05-17T10:57:29.000Z",
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T10:59:00.000Z",
+                            "deletedAt": null,
+                            "price": 12100,
+                            "customText": "Scubajet",
+                            "id": "8c853b2c-878f-4ed0-a205-dcf9b2fb2929",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T10:59:30.000Z",
+                            "deletedAt": null,
+                            "price": 12100,
+                            "customText": "Fotos y videos Dron Mavic DJI ",
+                            "id": "c3c63965-532a-4ab6-8916-f6b3993144a7",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T10:58:17.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "c90c0e18-c441-44bb-bffa-51392b733e1b",
+                            "boatExtraId": "eea8b892-a5d2-497f-b5ad-98342aa906ad",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T10:58:48.000Z",
+                            "deletedAt": null,
+                            "price": 24200,
+                            "customText": "Seabob",
+                            "id": "ddfa0161-9f15-4ef9-a568-534614a4a21d",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T10:59:53.000Z",
+                            "deletedAt": null,
+                            "price": 36300,
+                            "customText": "Puesta de sol",
+                            "id": "f58d6ab8-ddc2-4f92-9956-aefa7f4035cb",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": true
+                },
+                "sort": [
+                    0,
+                    70000
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "e0b86d46-4420-4bd7-bd01-5f4de802189a",
+                "_score": null,
+                "_source": {
+                    "id": "e0b86d46-4420-4bd7-bd01-5f4de802189a",
+                    "name": "LOLA",
+                    "length": 10,
+                    "seasons": [
+                        {
+                            "priceWeek": 375000,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 50000,
+                            "name": "RESTO DEL AÑO ",
+                            "priceWeekDay": 53572,
+                            "minDays": 1,
+                            "priceDay": 72600,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 510000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 60000,
+                            "name": "JUNIO Y SEPTIEMBRE",
+                            "priceWeekDay": 72858,
+                            "minDays": 1,
+                            "priceDay": 84700,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 650000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 80000,
+                            "name": "JULIO Y AGOSTO",
+                            "priceWeekDay": 92858,
+                            "minDays": 1,
+                            "priceDay": 109000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 510000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 60000,
+                            "name": "JUNIO Y SEPTIEMBRE",
+                            "priceWeekDay": 72858,
+                            "minDays": 1,
+                            "priceDay": 84700,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 375000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 50000,
+                            "combinedSeasonNames": [
+                                "RESTO DEL AÑO ",
+                                "JUNIO Y SEPTIEMBRE"
+                            ],
+                            "name": "RESTO DEL AÑO  + JUNIO Y SEPTIEMBRE",
+                            "isCombined": true,
+                            "priceWeekDay": 53572,
+                            "minDays": 1,
+                            "priceDay": 72600,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 510000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 60000,
+                            "combinedSeasonNames": [
+                                "JUNIO Y SEPTIEMBRE",
+                                "JULIO Y AGOSTO"
+                            ],
+                            "name": "JUNIO Y SEPTIEMBRE + JULIO Y AGOSTO",
+                            "isCombined": true,
+                            "priceWeekDay": 72858,
+                            "minDays": 1,
+                            "priceDay": 84700,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 510000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 60000,
+                            "combinedSeasonNames": [
+                                "JULIO Y AGOSTO",
+                                "JUNIO Y SEPTIEMBRE"
+                            ],
+                            "name": "JULIO Y AGOSTO + JUNIO Y SEPTIEMBRE",
+                            "isCombined": true,
+                            "priceWeekDay": 72858,
+                            "minDays": 1,
+                            "priceDay": 84700,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2023-04-15T16:14:02.000Z",
+                    "updatedAt": "2024-03-27T15:35:20.000Z",
+                    "city": "Ibiza",
+                    "portName": "Marina Ibiza",
+                    "checkinWeekDays": {
+                        "monday": true,
+                        "tuesday": true,
+                        "wednesday": true,
+                        "thursday": true,
+                        "friday": true,
+                        "saturday": true,
+                        "sunday": true
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "flexible",
+                    "checkoutWeekDays": {
+                        "monday": true,
+                        "tuesday": true,
+                        "wednesday": true,
+                        "thursday": true,
+                        "friday": true,
+                        "saturday": true,
+                        "sunday": true
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "flexible",
+                    "portLocation": {
+                        "lat": "38.91356660",
+                        "lon": "1.43752530"
+                    },
+                    "boatType": "Rib",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 11,
+                    "numPeopleCapacitySleep": 0,
+                    "image": "/boat/e0b86d46-4420-4bd7-bd01-5f4de802189a/31-1681576932804",
+                    "busyDates": [],
+                    "reviewScore": 1,
+                    "isHighlighted": false,
+                    "extras": [
+                        {
+                            "createdAt": "2023-04-15T16:39:46.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "3c13058f-6160-4491-9a60-d2f0a3a01876",
+                            "boatExtraId": "2d299ad5-e0dc-4903-bda7-72b0bcc231fa",
+                            "isMandatory": true,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-out"
+                        },
+                        {
+                            "createdAt": "2023-04-15T16:14:03.000Z",
+                            "deletedAt": null,
+                            "price": 18000,
+                            "customText": null,
+                            "id": "ed1f74b2-1376-4e39-8055-ed77f9281f8c",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": true,
+                            "updatedAt": "2023-04-15T16:39:26.000Z",
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": true
+                },
+                "sort": [
+                    0,
+                    72600
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "f3a01700-6f74-4cec-973e-c476ab6c6fc3",
+                "_score": null,
+                "_source": {
+                    "id": "f3a01700-6f74-4cec-973e-c476ab6c6fc3",
+                    "name": "ARGO III",
+                    "length": 12,
+                    "seasons": [
+                        {
+                            "priceWeek": 560000,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 80000,
+                            "name": "Temporada baja",
+                            "priceWeekDay": 80000,
+                            "minDays": 1,
+                            "priceDay": 80000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 770000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 110000,
+                            "name": "Temporada media",
+                            "priceWeekDay": 110000,
+                            "minDays": 1,
+                            "priceDay": 110000,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 910000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 130000,
+                            "name": "Temporada alta",
+                            "priceWeekDay": 130000,
+                            "minDays": 1,
+                            "priceDay": 130000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 770000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 110000,
+                            "name": "Temporada media",
+                            "priceWeekDay": 110000,
+                            "minDays": 1,
+                            "priceDay": 110000,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 560000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 80000,
+                            "combinedSeasonNames": [
+                                "Temporada baja",
+                                "Temporada media"
+                            ],
+                            "name": "Temporada baja + Temporada media",
+                            "isCombined": true,
+                            "priceWeekDay": 80000,
+                            "minDays": 1,
+                            "priceDay": 80000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 770000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 110000,
+                            "combinedSeasonNames": [
+                                "Temporada media",
+                                "Temporada alta"
+                            ],
+                            "name": "Temporada media + Temporada alta",
+                            "isCombined": true,
+                            "priceWeekDay": 110000,
+                            "minDays": 1,
+                            "priceDay": 110000,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 770000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 110000,
+                            "combinedSeasonNames": [
+                                "Temporada alta",
+                                "Temporada media"
+                            ],
+                            "name": "Temporada alta + Temporada media",
+                            "isCombined": true,
+                            "priceWeekDay": 110000,
+                            "minDays": 1,
+                            "priceDay": 110000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2023-05-17T11:21:55.000Z",
+                    "updatedAt": "2026-01-28T12:01:21.000Z",
+                    "city": "Ibiza",
+                    "portName": "PD Santa Eulalia",
+                    "checkinWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "flexible",
+                    "checkoutWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "flexible",
+                    "portLocation": {
+                        "lat": "38.98257260",
+                        "lon": "1.52094360"
+                    },
+                    "boatType": "Rib",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 10,
+                    "numPeopleCapacitySleep": 0,
+                    "image": "/boat/f3a01700-6f74-4cec-973e-c476ab6c6fc3/210-1684323171672",
+                    "busyDates": [],
+                    "reviewScore": 3,
+                    "isHighlighted": false,
+                    "extras": [
+                        {
+                            "createdAt": "2023-05-17T11:31:03.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "570d68ac-e83b-4a66-af3f-8f2097228c99",
+                            "boatExtraId": "72379673-023a-47a2-a248-276dfe08815c",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T11:31:41.000Z",
+                            "deletedAt": null,
+                            "price": 12100,
+                            "customText": "Scubajet",
+                            "id": "77a4865b-14ce-4074-9b52-d0330d8163f6",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T11:30:56.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "7d8ebed5-545d-434d-a913-4da9e736ee4c",
+                            "boatExtraId": "eea8b892-a5d2-497f-b5ad-98342aa906ad",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T11:31:30.000Z",
+                            "deletedAt": null,
+                            "price": 24200,
+                            "customText": "Seabob",
+                            "id": "8a5c6d16-d782-4792-b5f5-0cee63554407",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T11:21:55.000Z",
+                            "deletedAt": null,
+                            "price": 24200,
+                            "customText": null,
+                            "id": "9ba4d08e-86d9-4cf5-94d9-99510fd2098b",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": false,
+                            "updatedAt": "2023-05-17T11:30:38.000Z",
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T11:31:10.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "dd5a1394-143a-411c-a545-c2ebe1d82461",
+                            "boatExtraId": "46db42e4-58b5-42b1-8d9b-4f2058824623",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2023-05-17T11:31:56.000Z",
+                            "deletedAt": null,
+                            "price": 36300,
+                            "customText": "Check out tardio / Sunset",
+                            "id": "f117f720-b7c2-4fb6-b043-f8c0fdd42e2e",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": false
+                },
+                "sort": [
+                    0,
+                    80000
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "4d4cd896-d95e-481d-9155-112ba8ca20ff",
+                "_score": null,
+                "_source": {
+                    "id": "4d4cd896-d95e-481d-9155-112ba8ca20ff",
+                    "name": "BAFAH",
+                    "length": 12,
+                    "seasons": [
+                        {
+                            "priceWeek": 518000,
+                            "endDate": "2026-01-06T23:59:59.999Z",
+                            "priceHalfDay": 50000,
+                            "name": "Temporada media",
+                            "priceWeekDay": 74000,
+                            "minDays": 3,
+                            "priceDay": 90000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 418000,
+                            "endDate": "2026-03-23T23:59:59.999Z",
+                            "priceHalfDay": 45000,
+                            "name": "Temporada baja",
+                            "priceWeekDay": 59715,
+                            "minDays": 1,
+                            "priceDay": 80000,
+                            "startDate": "2026-01-07T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 518000,
+                            "endDate": "2026-06-14T23:59:59.999Z",
+                            "priceHalfDay": 50000,
+                            "name": "Temporada media",
+                            "priceWeekDay": 74000,
+                            "minDays": 3,
+                            "priceDay": 90000,
+                            "startDate": "2026-03-24T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 648000,
+                            "endDate": "2026-09-13T23:59:59.999Z",
+                            "priceHalfDay": 60000,
+                            "name": "Temporada alta",
+                            "priceWeekDay": 92572,
+                            "minDays": 6,
+                            "priceDay": 120000,
+                            "startDate": "2026-06-15T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 518000,
+                            "endDate": "2026-11-01T23:59:59.999Z",
+                            "priceHalfDay": 50000,
+                            "name": "Temporada media",
+                            "priceWeekDay": 74000,
+                            "minDays": 4,
+                            "priceDay": 90000,
+                            "startDate": "2026-09-14T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 418000,
+                            "endDate": "2026-12-23T23:59:59.000Z",
+                            "priceHalfDay": 45000,
+                            "name": "Temporada baja",
+                            "priceWeekDay": 59715,
+                            "minDays": 1,
+                            "priceDay": 80000,
+                            "startDate": "2026-11-02T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 418000,
+                            "endDate": "2026-03-23T23:59:59.999Z",
+                            "priceHalfDay": 45000,
+                            "combinedSeasonNames": [
+                                "Temporada media",
+                                "Temporada baja"
+                            ],
+                            "name": "Temporada media + Temporada baja",
+                            "isCombined": true,
+                            "priceWeekDay": 59715,
+                            "minDays": 1,
+                            "priceDay": 80000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 418000,
+                            "endDate": "2026-06-14T23:59:59.999Z",
+                            "priceHalfDay": 45000,
+                            "combinedSeasonNames": [
+                                "Temporada baja",
+                                "Temporada media"
+                            ],
+                            "name": "Temporada baja + Temporada media",
+                            "isCombined": true,
+                            "priceWeekDay": 59715,
+                            "minDays": 1,
+                            "priceDay": 80000,
+                            "startDate": "2026-01-07T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 518000,
+                            "endDate": "2026-09-13T23:59:59.999Z",
+                            "priceHalfDay": 50000,
+                            "combinedSeasonNames": [
+                                "Temporada media",
+                                "Temporada alta"
+                            ],
+                            "name": "Temporada media + Temporada alta",
+                            "isCombined": true,
+                            "priceWeekDay": 74000,
+                            "minDays": 3,
+                            "priceDay": 90000,
+                            "startDate": "2026-03-24T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 518000,
+                            "endDate": "2026-11-01T23:59:59.999Z",
+                            "priceHalfDay": 50000,
+                            "combinedSeasonNames": [
+                                "Temporada alta",
+                                "Temporada media"
+                            ],
+                            "name": "Temporada alta + Temporada media",
+                            "isCombined": true,
+                            "priceWeekDay": 74000,
+                            "minDays": 4,
+                            "priceDay": 90000,
+                            "startDate": "2026-06-15T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 418000,
+                            "endDate": "2026-12-23T23:59:59.000Z",
+                            "priceHalfDay": 45000,
+                            "combinedSeasonNames": [
+                                "Temporada media",
+                                "Temporada baja"
+                            ],
+                            "name": "Temporada media + Temporada baja",
+                            "isCombined": true,
+                            "priceWeekDay": 59715,
+                            "minDays": 1,
+                            "priceDay": 80000,
+                            "startDate": "2026-09-14T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2024-04-18T15:38:05.000Z",
+                    "updatedAt": "2024-04-29T07:32:50.000Z",
+                    "city": "Valencia",
+                    "portName": "Valencia Mar",
+                    "checkinWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": true,
+                        "sunday": false
+                    },
+                    "checkinWeekHour": "18",
+                    "checkinDayHour": "11",
+                    "checkoutWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": true,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkoutWeekHour": "14",
+                    "checkoutDayHour": "19",
+                    "portLocation": {
+                        "lat": "39.42529470",
+                        "lon": "-0.32565300"
+                    },
+                    "boatType": "catamaran",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 9,
+                    "numPeopleCapacitySleep": 6,
+                    "image": "/boat/4d4cd896-d95e-481d-9155-112ba8ca20ff/821-1713456625527",
+                    "busyDates": [],
+                    "reviewScore": 0,
+                    "isHighlighted": false,
+                    "extras": [
+                        {
+                            "createdAt": "2024-04-18T16:06:59.000Z",
+                            "deletedAt": null,
+                            "price": 6000,
+                            "customText": "Marinero / cocinero",
+                            "id": "1c6fc88c-d95c-4b1f-a2b6-3247e64b0319",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2024-04-18T16:03:49.000Z",
+                            "deletedAt": null,
+                            "price": 1000,
+                            "customText": null,
+                            "id": "3586f7ea-4e50-4258-aab5-1d38705f69c6",
+                            "boatExtraId": "00434329-7ed1-45a9-8860-a5644872be1e",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2024-04-18T16:03:04.000Z",
+                            "deletedAt": null,
+                            "price": 1000,
+                            "customText": null,
+                            "id": "37c9f81e-833a-4c9e-83ba-e9c86bc44624",
+                            "boatExtraId": "72379673-023a-47a2-a248-276dfe08815c",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2024-04-18T16:04:25.000Z",
+                            "deletedAt": null,
+                            "price": 1000,
+                            "customText": null,
+                            "id": "37efd825-3914-4292-8035-74cec0786a00",
+                            "boatExtraId": "eea8b892-a5d2-497f-b5ad-98342aa906ad",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2024-04-18T16:03:29.000Z",
+                            "deletedAt": null,
+                            "price": 12000,
+                            "customText": null,
+                            "id": "4c5cd66d-82de-4592-85b8-05207465cebd",
+                            "boatExtraId": "8c99c2bd-d841-488d-9bb5-40dbc465a060",
+                            "isMandatory": true,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2024-04-18T16:02:23.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "5a10ee9d-1de4-4492-8b06-a584846f7c23",
+                            "boatExtraId": "2d299ad5-e0dc-4903-bda7-72b0bcc231fa",
+                            "isMandatory": true,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-out"
+                        },
+                        {
+                            "createdAt": "2024-04-18T15:38:05.000Z",
+                            "deletedAt": null,
+                            "price": 20000,
+                            "customText": null,
+                            "id": "8fd64ea7-caf2-4411-91e7-9333aa9c4b08",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": true,
+                            "updatedAt": "2024-04-18T16:01:56.000Z",
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2024-04-18T16:06:10.000Z",
+                            "deletedAt": null,
+                            "price": 12000,
+                            "customText": "Sábanas + toalla ducha",
+                            "id": "a540d782-4761-4f78-9505-543bc4b7deb6",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": true,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2024-04-18T16:02:44.000Z",
+                            "deletedAt": null,
+                            "price": 10000,
+                            "customText": null,
+                            "id": "ea4da76d-c483-42ce-a335-96d76d287b05",
+                            "boatExtraId": "3a2bf6bf-cd63-47cf-8b9b-bfacd9c58d7d",
+                            "isMandatory": true,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": true
+                },
+                "sort": [
+                    0,
+                    80000
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "18274e5a-9b4a-4bcc-8ca7-7d6bb51b6c76",
+                "_score": null,
+                "_source": {
+                    "id": "18274e5a-9b4a-4bcc-8ca7-7d6bb51b6c76",
+                    "name": "MAHI MAHI",
+                    "length": 9,
+                    "seasons": [
+                        {
+                            "priceWeek": 623000,
+                            "endDate": "2026-05-31T23:59:59.999Z",
+                            "priceHalfDay": 89000,
+                            "name": "LOW SEASON",
+                            "priceWeekDay": 89000,
+                            "minDays": 1,
+                            "priceDay": 89000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 763000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 109000,
+                            "name": "MID SEASON",
+                            "priceWeekDay": 109000,
+                            "minDays": 1,
+                            "priceDay": 109000,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 903000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 129000,
+                            "name": "HIGH SEASON",
+                            "priceWeekDay": 129000,
+                            "minDays": 1,
+                            "priceDay": 129000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 763000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 109000,
+                            "name": "MID SEASON",
+                            "priceWeekDay": 109000,
+                            "minDays": 1,
+                            "priceDay": 109000,
+                            "startDate": "2026-09-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 623000,
+                            "endDate": "2026-06-30T23:59:59.999Z",
+                            "priceHalfDay": 89000,
+                            "combinedSeasonNames": [
+                                "LOW SEASON",
+                                "MID SEASON"
+                            ],
+                            "name": "LOW SEASON + MID SEASON",
+                            "isCombined": true,
+                            "priceWeekDay": 89000,
+                            "minDays": 1,
+                            "priceDay": 89000,
+                            "startDate": "2026-01-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 763000,
+                            "endDate": "2026-08-31T23:59:59.999Z",
+                            "priceHalfDay": 109000,
+                            "combinedSeasonNames": [
+                                "MID SEASON",
+                                "HIGH SEASON"
+                            ],
+                            "name": "MID SEASON + HIGH SEASON",
+                            "isCombined": true,
+                            "priceWeekDay": 109000,
+                            "minDays": 1,
+                            "priceDay": 109000,
+                            "startDate": "2026-06-01T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 763000,
+                            "endDate": "2026-09-30T23:59:59.000Z",
+                            "priceHalfDay": 109000,
+                            "combinedSeasonNames": [
+                                "HIGH SEASON",
+                                "MID SEASON"
+                            ],
+                            "name": "HIGH SEASON + MID SEASON",
+                            "isCombined": true,
+                            "priceWeekDay": 109000,
+                            "minDays": 1,
+                            "priceDay": 109000,
+                            "startDate": "2026-07-01T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2024-07-03T10:39:10.000Z",
+                    "updatedAt": "2025-07-30T16:37:54.000Z",
+                    "city": "Ibiza",
+                    "portName": "Marina Botafoch",
+                    "checkinWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "flexible",
+                    "checkoutWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": false,
+                        "sunday": false
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "flexible",
+                    "portLocation": {
+                        "lat": "38.91382610",
+                        "lon": "1.44574180"
+                    },
+                    "boatType": "Motorboat",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 9,
+                    "numPeopleCapacitySleep": 0,
+                    "image": "/boat/18274e5a-9b4a-4bcc-8ca7-7d6bb51b6c76/780-1720006350323",
+                    "busyDates": [],
+                    "reviewScore": 2,
+                    "isHighlighted": false,
+                    "extras": [
+                        {
+                            "createdAt": "2024-07-03T10:39:10.000Z",
+                            "deletedAt": null,
+                            "price": 0,
+                            "customText": null,
+                            "id": "e4d36205-3ab7-4658-8a78-a81738bdf0ba",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": true,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": false
+                },
+                "sort": [
+                    0,
+                    89000
+                ]
+            },
+            {
+                "_index": "prod_boat",
+                "_type": "_doc",
+                "_id": "c7df08af-426f-4feb-b08f-ef5ace2fd897",
+                "_score": null,
+                "_source": {
+                    "id": "c7df08af-426f-4feb-b08f-ef5ace2fd897",
+                    "name": "Cata Tribeca",
+                    "length": 12,
+                    "seasons": [
+                        {
+                            "priceWeek": 500000,
+                            "endDate": "2026-05-05T23:59:59.999Z",
+                            "priceHalfDay": 97000,
+                            "name": "Baja",
+                            "priceWeekDay": 71429,
+                            "minDays": 1,
+                            "priceDay": 97000,
+                            "startDate": "2026-01-31T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 625000,
+                            "endDate": "2026-06-16T23:59:59.999Z",
+                            "priceHalfDay": 120000,
+                            "name": "Media",
+                            "priceWeekDay": 89286,
+                            "minDays": 1,
+                            "priceDay": 120000,
+                            "startDate": "2026-05-06T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 760000,
+                            "endDate": "2026-07-14T23:59:59.999Z",
+                            "priceHalfDay": 760000,
+                            "name": "Alta",
+                            "priceWeekDay": 108572,
+                            "minDays": 7,
+                            "priceDay": 760000,
+                            "startDate": "2026-06-17T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 800000,
+                            "endDate": "2026-08-25T23:59:59.999Z",
+                            "priceHalfDay": 800000,
+                            "name": "Extra",
+                            "priceWeekDay": 114286,
+                            "minDays": 7,
+                            "priceDay": 800000,
+                            "startDate": "2026-07-15T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 760000,
+                            "endDate": "2026-09-08T23:59:59.999Z",
+                            "priceHalfDay": 760000,
+                            "name": "Alta",
+                            "priceWeekDay": 108572,
+                            "minDays": 7,
+                            "priceDay": 760000,
+                            "startDate": "2026-08-26T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 625000,
+                            "endDate": "2026-10-06T23:59:59.000Z",
+                            "priceHalfDay": 120000,
+                            "name": "Media",
+                            "priceWeekDay": 89286,
+                            "minDays": 1,
+                            "priceDay": 120000,
+                            "startDate": "2026-09-09T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 500000,
+                            "endDate": "2026-06-16T23:59:59.999Z",
+                            "priceHalfDay": 97000,
+                            "combinedSeasonNames": [
+                                "Baja",
+                                "Media"
+                            ],
+                            "name": "Baja + Media",
+                            "isCombined": true,
+                            "priceWeekDay": 71429,
+                            "minDays": 1,
+                            "priceDay": 97000,
+                            "startDate": "2026-01-31T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 625000,
+                            "endDate": "2026-07-14T23:59:59.999Z",
+                            "priceHalfDay": 120000,
+                            "combinedSeasonNames": [
+                                "Media",
+                                "Alta"
+                            ],
+                            "name": "Media + Alta",
+                            "isCombined": true,
+                            "priceWeekDay": 89286,
+                            "minDays": 1,
+                            "priceDay": 120000,
+                            "startDate": "2026-05-06T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 760000,
+                            "endDate": "2026-08-25T23:59:59.999Z",
+                            "priceHalfDay": 760000,
+                            "combinedSeasonNames": [
+                                "Alta",
+                                "Extra"
+                            ],
+                            "name": "Alta + Extra",
+                            "isCombined": true,
+                            "priceWeekDay": 108572,
+                            "minDays": 7,
+                            "priceDay": 760000,
+                            "startDate": "2026-06-17T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 760000,
+                            "endDate": "2026-09-08T23:59:59.999Z",
+                            "priceHalfDay": 760000,
+                            "combinedSeasonNames": [
+                                "Extra",
+                                "Alta"
+                            ],
+                            "name": "Extra + Alta",
+                            "isCombined": true,
+                            "priceWeekDay": 108572,
+                            "minDays": 7,
+                            "priceDay": 760000,
+                            "startDate": "2026-07-15T00:00:00.000Z"
+                        },
+                        {
+                            "priceWeek": 625000,
+                            "endDate": "2026-10-06T23:59:59.000Z",
+                            "priceHalfDay": 120000,
+                            "combinedSeasonNames": [
+                                "Alta",
+                                "Media"
+                            ],
+                            "name": "Alta + Media",
+                            "isCombined": true,
+                            "priceWeekDay": 89286,
+                            "minDays": 1,
+                            "priceDay": 120000,
+                            "startDate": "2026-08-26T00:00:00.000Z"
+                        }
+                    ],
+                    "createdAt": "2022-12-19T17:35:50.000Z",
+                    "updatedAt": "2024-03-27T12:07:09.000Z",
+                    "city": "Ibiza",
+                    "portName": "CN Sant Antoni de Portmany",
+                    "checkinWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": false,
+                        "saturday": true,
+                        "sunday": false
+                    },
+                    "checkinWeekHour": "flexible",
+                    "checkinDayHour": "11",
+                    "checkoutWeekDays": {
+                        "monday": false,
+                        "tuesday": false,
+                        "wednesday": false,
+                        "thursday": false,
+                        "friday": true,
+                        "saturday": true,
+                        "sunday": false
+                    },
+                    "checkoutWeekHour": "flexible",
+                    "checkoutDayHour": "19",
+                    "portLocation": {
+                        "lat": "38.97848400",
+                        "lon": "1.28435140"
+                    },
+                    "boatType": "catamaran",
+                    "isAcuaticToy": false,
+                    "numPeopleCapacity": 12,
+                    "numPeopleCapacitySleep": 10,
+                    "image": "/boat/c7df08af-426f-4feb-b08f-ef5ace2fd897/391-1671476817539",
+                    "busyDates": [],
+                    "reviewScore": 1,
+                    "isHighlighted": false,
+                    "extras": [
+                        {
+                            "createdAt": "2022-12-19T19:00:55.000Z",
+                            "deletedAt": null,
+                            "price": 24000,
+                            "customText": null,
+                            "id": "077322ba-ab49-4443-b8af-9c8b19c3ad3f",
+                            "boatExtraId": "0baef02e-d024-41bf-a340-bd9850700287",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2022-12-19T18:58:55.000Z",
+                            "deletedAt": null,
+                            "price": 45000,
+                            "customText": null,
+                            "id": "0ef2dcd9-141d-4218-a549-a00cf0046fdf",
+                            "boatExtraId": "55228c0e-072b-45dd-9e18-177db944199f",
+                            "isMandatory": true,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2022-12-19T17:35:50.000Z",
+                            "deletedAt": null,
+                            "price": 24000,
+                            "customText": null,
+                            "id": "9129fadb-a865-4db1-9df9-7fcbde97f200",
+                            "boatExtraId": "b4538eb4-b5be-49d1-8468-90f43445a1ea",
+                            "isMandatory": true,
+                            "updatedAt": "2022-12-19T19:00:34.000Z",
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2022-12-19T19:00:19.000Z",
+                            "deletedAt": null,
+                            "price": 24000,
+                            "customText": null,
+                            "id": "be6b11f7-b31e-4342-a951-a755d5da7cbb",
+                            "boatExtraId": "e2b01a0e-428a-4d9f-a098-f373d2d99b81",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2022-12-19T19:02:59.000Z",
+                            "deletedAt": null,
+                            "price": 9000,
+                            "customText": "Recepción y estiva compra",
+                            "id": "d428def9-71f4-4e24-b56c-1df8909cafc9",
+                            "boatExtraId": "7e5fd25a-90af-4fd6-81a9-ce9317dfff9b",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2022-12-19T19:01:26.000Z",
+                            "deletedAt": null,
+                            "price": 400,
+                            "customText": null,
+                            "id": "e709fe22-08b3-47cb-9d6d-668a4a5d9e69",
+                            "boatExtraId": "1931b49c-5025-481d-8bbe-95c3bb2e0928",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        },
+                        {
+                            "createdAt": "2022-12-19T19:02:07.000Z",
+                            "deletedAt": null,
+                            "price": 18000,
+                            "customText": null,
+                            "id": "f65cd593-efb5-4c77-9e08-e8cfbcc59d9f",
+                            "boatExtraId": "1abf0a18-0a9a-44dd-8110-7ad7570b95be",
+                            "isMandatory": false,
+                            "updatedAt": null,
+                            "isIncludedInPrice": false,
+                            "paymentType": "check-in"
+                        }
+                    ],
+                    "isPatronMandatory": true
+                },
+                "sort": [
+                    0,
+                    97000
+                ]
+            }
+        ]
+    }
+}
